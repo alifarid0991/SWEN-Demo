@@ -1,0 +1,5316 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "8046da76-6527-4646-bc4b-38de633bec1a",
+  "id": "9959fc9530",
+  "name": "msnbc",
+  "userName": "Omid Roshani",
+  "created": "2020-05-04T17:44:35.2043561+00:00",
+  "isOwned": true,
+  "isEditable": true,
+  "isBase": true,
+  "durationInSeconds": 96,
+  "summarizedInsights": {
+    "name": "msnbc",
+    "id": "9959fc9530",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:01:36.534",
+      "seconds": 96.5
+    },
+    "thumbnailVideoId": "9959fc9530",
+    "thumbnailId": "8f7d42e6-21c6-4797-9ad8-eabfcdd8fddc",
+    "faces": [
+      {
+        "videoId": "9959fc9530",
+        "referenceId": "b1a6eaa3-10d9-7c52-8cf1-70b2e37c038b",
+        "referenceType": "Bing",
+        "confidence": 0.9235,
+        "description": "Brian Williams was born on September 19, 1962 in New York, USA. He is an actor, known for Law & Order, Toy Soldiers and Born of Water.",
+        "title": null,
+        "thumbnailId": "7ca7f2ea-2c76-4c1b-8813-65e55a62d99d",
+        "seenDuration": 19.9,
+        "seenDurationRatio": 0.2061,
+        "id": 1062,
+        "name": "Brian Williams",
+        "appearances": [
+          {
+            "startTime": "0:00:01.268",
+            "endTime": "0:00:21.154",
+            "startSeconds": 1.3,
+            "endSeconds": 21.2
+          }
+        ]
+      },
+      {
+        "videoId": "9959fc9530",
+        "referenceId": "d9a49ca1-5527-ad20-53a0-33b9c4366626",
+        "referenceType": "Bing",
+        "confidence": 0.9998,
+        "description": "Christopher Loffredo Hayes is an American progressive commentator, cable television news anchor, author. Hayes hosts All In with Chris Hayes, a weekday news and opinion television show on MSNBC. Hayes also hosts a weekly MSNBC podcast, Why Is This Happening? Hayes formerly …",
+        "title": "Commentator",
+        "thumbnailId": "27c18da4-9318-4c37-8304-0ab0f8293339",
+        "seenDuration": 11.7,
+        "seenDurationRatio": 0.1212,
+        "id": 3092,
+        "name": "Chris Hayes",
+        "appearances": [
+          {
+            "startTime": "0:01:24.685",
+            "endTime": "0:01:36.429",
+            "startSeconds": 84.7,
+            "endSeconds": 96.4
+          }
+        ]
+      },
+      {
+        "videoId": "9959fc9530",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "d524a0a7-dffd-46a5-a2f5-04f9fb07f0f6",
+        "seenDuration": 78.5,
+        "seenDurationRatio": 0.8132,
+        "id": 2159,
+        "name": "Unknown #1",
+        "appearances": [
+          {
+            "startTime": "0:00:01.001",
+            "endTime": "0:01:19.512",
+            "startSeconds": 1,
+            "endSeconds": 79.5
+          }
+        ]
+      },
+      {
+        "videoId": "9959fc9530",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "0444b28e-401a-4088-b163-5c259852fc58",
+        "seenDuration": 20.1,
+        "seenDurationRatio": 0.2082,
+        "id": 1020,
+        "name": "Unknown #2",
+        "appearances": [
+          {
+            "startTime": "0:00:01.068",
+            "endTime": "0:00:21.154",
+            "startSeconds": 1.1,
+            "endSeconds": 21.2
+          }
+        ]
+      },
+      {
+        "videoId": "9959fc9530",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "ebb89305-892f-4c01-9432-a092f674ac3a",
+        "seenDuration": 20,
+        "seenDurationRatio": 0.2072,
+        "id": 1024,
+        "name": "Unknown #3",
+        "appearances": [
+          {
+            "startTime": "0:00:01.201",
+            "endTime": "0:00:21.154",
+            "startSeconds": 1.2,
+            "endSeconds": 21.2
+          }
+        ]
+      },
+      {
+        "videoId": "9959fc9530",
+        "confidence": 0,
+        "description": null,
+        "title": null,
+        "thumbnailId": "d615d090-24d8-4946-a9e0-c548ab50ddba",
+        "seenDuration": 2.8,
+        "seenDurationRatio": 0.029,
+        "id": 1000,
+        "name": "Unknown #4",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:02.769",
+            "startSeconds": 0,
+            "endSeconds": 2.8
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "isTranscript": true,
+        "id": 3,
+        "name": "click",
+        "appearances": [
+          {
+            "startTime": "0:01:30.5",
+            "endTime": "0:01:36.479",
+            "startSeconds": 90.5,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 7,
+        "name": "doctor",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:04.44",
+            "startSeconds": 0,
+            "endSeconds": 4.4
+          },
+          {
+            "startTime": "0:01:02.46",
+            "endTime": "0:01:05.63",
+            "startSeconds": 62.5,
+            "endSeconds": 65.6
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 8,
+        "name": "politics",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:07.65",
+            "startSeconds": 0,
+            "endSeconds": 7.6
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 9,
+        "name": "pandemic",
+        "appearances": [
+          {
+            "startTime": "0:00:07.65",
+            "endTime": "0:00:13.26",
+            "startSeconds": 7.6,
+            "endSeconds": 13.3
+          },
+          {
+            "startTime": "0:00:24.71",
+            "endTime": "0:00:30.21",
+            "startSeconds": 24.7,
+            "endSeconds": 30.2
+          },
+          {
+            "startTime": "0:00:36.5",
+            "endTime": "0:00:48.29",
+            "startSeconds": 36.5,
+            "endSeconds": 48.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 10,
+        "name": "defund",
+        "appearances": [
+          {
+            "startTime": "0:00:13.26",
+            "endTime": "0:00:17.97",
+            "startSeconds": 13.3,
+            "endSeconds": 18
+          },
+          {
+            "startTime": "0:00:36.5",
+            "endTime": "0:00:48.29",
+            "startSeconds": 36.5,
+            "endSeconds": 48.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 11,
+        "name": "world",
+        "appearances": [
+          {
+            "startTime": "0:00:13.26",
+            "endTime": "0:00:17.97",
+            "startSeconds": 13.3,
+            "endSeconds": 18
+          },
+          {
+            "startTime": "0:00:24.71",
+            "endTime": "0:00:48.29",
+            "startSeconds": 24.7,
+            "endSeconds": 48.3
+          },
+          {
+            "startTime": "0:00:58.392",
+            "endTime": "0:01:00.26",
+            "startSeconds": 58.4,
+            "endSeconds": 60.3
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 12,
+        "name": "care",
+        "appearances": [
+          {
+            "startTime": "0:00:48.29",
+            "endTime": "0:01:00.73",
+            "startSeconds": 48.3,
+            "endSeconds": 60.7
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 13,
+        "name": "coming",
+        "appearances": [
+          {
+            "startTime": "0:01:09.95",
+            "endTime": "0:01:15.13",
+            "startSeconds": 70,
+            "endSeconds": 75.1
+          }
+        ]
+      },
+      {
+        "isTranscript": true,
+        "id": 14,
+        "name": "videos",
+        "appearances": [
+          {
+            "startTime": "0:01:27.68",
+            "endTime": "0:01:36.479",
+            "startSeconds": 87.7,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 1,
+        "name": "trump steps",
+        "appearances": [
+          {
+            "startTime": "0:00:00.467",
+            "endTime": "0:00:01.401",
+            "startSeconds": 0.5,
+            "endSeconds": 1.4
+          },
+          {
+            "startTime": "0:00:44.845",
+            "endTime": "0:00:47.647",
+            "startSeconds": 44.8,
+            "endSeconds": 47.6
+          },
+          {
+            "startTime": "0:00:58.392",
+            "endTime": "0:01:00.26",
+            "startSeconds": 58.4,
+            "endSeconds": 60.3
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 2,
+        "name": "msnbc",
+        "appearances": [
+          {
+            "startTime": "0:00:00.467",
+            "endTime": "0:00:00.934",
+            "startSeconds": 0.5,
+            "endSeconds": 0.9
+          },
+          {
+            "startTime": "0:01:21.281",
+            "endTime": "0:01:27.68",
+            "startSeconds": 81.3,
+            "endSeconds": 87.7
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 4,
+        "name": "subscribe",
+        "appearances": [
+          {
+            "startTime": "0:01:25.018",
+            "endTime": "0:01:26.887",
+            "startSeconds": 85,
+            "endSeconds": 86.9
+          },
+          {
+            "startTime": "0:01:30.5",
+            "endTime": "0:01:36.479",
+            "startSeconds": 90.5,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 5,
+        "name": "attacks",
+        "appearances": [
+          {
+            "startTime": "0:00:44.845",
+            "endTime": "0:00:47.647",
+            "startSeconds": 44.8,
+            "endSeconds": 47.6
+          },
+          {
+            "startTime": "0:00:58.392",
+            "endTime": "0:01:00.26",
+            "startSeconds": 58.4,
+            "endSeconds": 60.3
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 6,
+        "name": "indiana",
+        "appearances": [
+          {
+            "startTime": "0:00:24.291",
+            "endTime": "0:00:28.028",
+            "startSeconds": 24.3,
+            "endSeconds": 28
+          },
+          {
+            "startTime": "0:01:02.46",
+            "endTime": "0:01:05.63",
+            "startSeconds": 62.5,
+            "endSeconds": 65.6
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 15,
+        "name": "list",
+        "appearances": [
+          {
+            "startTime": "0:00:00.467",
+            "endTime": "0:00:01.401",
+            "startSeconds": 0.5,
+            "endSeconds": 1.4
+          },
+          {
+            "startTime": "0:01:30.5",
+            "endTime": "0:01:36.479",
+            "startSeconds": 90.5,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 16,
+        "name": "watch",
+        "appearances": [
+          {
+            "startTime": "0:01:25.018",
+            "endTime": "0:01:27.68",
+            "startSeconds": 85,
+            "endSeconds": 87.7
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 17,
+        "name": "omsnbc",
+        "appearances": [
+          {
+            "startTime": "0:00:00.467",
+            "endTime": "0:00:00.934",
+            "startSeconds": 0.5,
+            "endSeconds": 0.9
+          },
+          {
+            "startTime": "0:01:21.281",
+            "endTime": "0:01:22.682",
+            "startSeconds": 81.3,
+            "endSeconds": 82.7
+          }
+        ]
+      },
+      {
+        "isTranscript": false,
+        "id": 18,
+        "name": "snbc",
+        "appearances": [
+          {
+            "startTime": "0:00:00.467",
+            "endTime": "0:00:00.934",
+            "startSeconds": 0.5,
+            "endSeconds": 0.9
+          },
+          {
+            "startTime": "0:01:01.194",
+            "endTime": "0:01:02.129",
+            "startSeconds": 61.2,
+            "endSeconds": 62.1
+          },
+          {
+            "startTime": "0:01:21.281",
+            "endTime": "0:01:27.68",
+            "startSeconds": 81.3,
+            "endSeconds": 87.7
+          }
+        ]
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "seenDurationRatio": 0.8494,
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:33.75",
+            "startSeconds": 0,
+            "endSeconds": 33.8
+          },
+          {
+            "startTime": "0:00:48.29",
+            "endTime": "0:01:36.479",
+            "startSeconds": 48.3,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "sentimentKey": "Negative",
+        "seenDurationRatio": 0.1502,
+        "appearances": [
+          {
+            "startTime": "0:00:33.75",
+            "endTime": "0:00:48.29",
+            "startSeconds": 33.8,
+            "endSeconds": 48.3
+          }
+        ]
+      }
+    ],
+    "emotions": [
+      {
+        "type": "Fear",
+        "seenDurationRatio": 0.1502,
+        "appearances": [
+          {
+            "startTime": "0:00:33.75",
+            "endTime": "0:00:48.29",
+            "startSeconds": 33.8,
+            "endSeconds": 48.3
+          }
+        ]
+      }
+    ],
+    "audioEffects": [
+      {
+        "audioEffectKey": "Silence",
+        "seenDurationRatio": 0.0539,
+        "seenDuration": 5.2,
+        "appearances": [
+          {
+            "startTime": "0:01:19.53",
+            "endTime": "0:01:24.709",
+            "startSeconds": 79.5,
+            "endSeconds": 84.7
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "id": 1,
+        "name": "text",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:36.463",
+            "startSeconds": 0,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "screenshot",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:21.148",
+            "startSeconds": 0,
+            "endSeconds": 81.1
+          },
+          {
+            "startTime": "0:01:25.419",
+            "endTime": "0:01:36.463",
+            "startSeconds": 85.4,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "human face",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:20.08",
+            "startSeconds": 0,
+            "endSeconds": 80.1
+          },
+          {
+            "startTime": "0:01:25.419",
+            "endTime": "0:01:36.463",
+            "startSeconds": 85.4,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "person",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:20.08",
+            "startSeconds": 0,
+            "endSeconds": 80.1
+          },
+          {
+            "startTime": "0:01:25.419",
+            "endTime": "0:01:36.463",
+            "startSeconds": 85.4,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "glasses",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:02.136",
+            "startSeconds": 0,
+            "endSeconds": 2.1
+          },
+          {
+            "startTime": "0:00:21.355",
+            "endTime": "0:01:20.08",
+            "startSeconds": 21.4,
+            "endSeconds": 80.1
+          },
+          {
+            "startTime": "0:01:25.419",
+            "endTime": "0:01:36.096",
+            "startSeconds": 85.4,
+            "endSeconds": 96.1
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "man",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:01.068",
+            "startSeconds": 0,
+            "endSeconds": 1.1
+          },
+          {
+            "startTime": "0:00:21.355",
+            "endTime": "0:01:20.08",
+            "startSeconds": 21.4,
+            "endSeconds": 80.1
+          },
+          {
+            "startTime": "0:01:25.419",
+            "endTime": "0:01:36.463",
+            "startSeconds": 85.4,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "indoor",
+        "appearances": [
+          {
+            "startTime": "0:00:02.135",
+            "endTime": "0:00:04.271",
+            "startSeconds": 2.1,
+            "endSeconds": 4.3
+          },
+          {
+            "startTime": "0:00:10.677",
+            "endTime": "0:00:16.016",
+            "startSeconds": 10.7,
+            "endSeconds": 16
+          },
+          {
+            "startTime": "0:00:20.287",
+            "endTime": "0:01:20.08",
+            "startSeconds": 20.3,
+            "endSeconds": 80.1
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "clothing",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:01.068",
+            "startSeconds": 0,
+            "endSeconds": 1.1
+          },
+          {
+            "startTime": "0:00:21.355",
+            "endTime": "0:01:13.674",
+            "startSeconds": 21.4,
+            "endSeconds": 73.7
+          },
+          {
+            "startTime": "0:01:16.877",
+            "endTime": "0:01:19.013",
+            "startSeconds": 76.9,
+            "endSeconds": 79
+          },
+          {
+            "startTime": "0:01:25.419",
+            "endTime": "0:01:36.463",
+            "startSeconds": 85.4,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "window",
+        "appearances": [
+          {
+            "startTime": "0:00:21.355",
+            "endTime": "0:01:20.08",
+            "startSeconds": 21.4,
+            "endSeconds": 80.1
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "wall",
+        "appearances": [
+          {
+            "startTime": "0:00:21.355",
+            "endTime": "0:00:35.235",
+            "startSeconds": 21.4,
+            "endSeconds": 35.2
+          },
+          {
+            "startTime": "0:00:42.709",
+            "endTime": "0:00:49.116",
+            "startSeconds": 42.7,
+            "endSeconds": 49.1
+          },
+          {
+            "startTime": "0:00:53.387",
+            "endTime": "0:00:58.726",
+            "startSeconds": 53.4,
+            "endSeconds": 58.7
+          },
+          {
+            "startTime": "0:01:01.929",
+            "endTime": "0:01:20.08",
+            "startSeconds": 61.9,
+            "endSeconds": 80.1
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "smile",
+        "appearances": [
+          {
+            "startTime": "0:00:02.135",
+            "endTime": "0:00:21.355",
+            "startSeconds": 2.1,
+            "endSeconds": 21.4
+          },
+          {
+            "startTime": "0:01:00.861",
+            "endTime": "0:01:01.929",
+            "startSeconds": 60.9,
+            "endSeconds": 61.9
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "funny",
+        "appearances": [
+          {
+            "startTime": "0:00:25.626",
+            "endTime": "0:00:43.777",
+            "startSeconds": 25.6,
+            "endSeconds": 43.8
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "graphic",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:02.136",
+            "startSeconds": 0,
+            "endSeconds": 2.1
+          },
+          {
+            "startTime": "0:01:21.148",
+            "endTime": "0:01:36.463",
+            "startSeconds": 81.1,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "shelf",
+        "appearances": [
+          {
+            "startTime": "0:00:02.135",
+            "endTime": "0:00:07.474",
+            "startSeconds": 2.1,
+            "endSeconds": 7.5
+          },
+          {
+            "startTime": "0:00:10.677",
+            "endTime": "0:00:16.016",
+            "startSeconds": 10.7,
+            "endSeconds": 16
+          },
+          {
+            "startTime": "0:00:19.219",
+            "endTime": "0:00:21.355",
+            "startSeconds": 19.2,
+            "endSeconds": 21.4
+          },
+          {
+            "startTime": "0:01:00.861",
+            "endTime": "0:01:01.929",
+            "startSeconds": 60.9,
+            "endSeconds": 61.9
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "design",
+        "appearances": [
+          {
+            "startTime": "0:01:20.08",
+            "endTime": "0:01:27.554",
+            "startSeconds": 80.1,
+            "endSeconds": 87.6
+          },
+          {
+            "startTime": "0:01:30.757",
+            "endTime": "0:01:36.463",
+            "startSeconds": 90.8,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "suit",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:01.068",
+            "startSeconds": 0,
+            "endSeconds": 1.1
+          },
+          {
+            "startTime": "0:01:25.419",
+            "endTime": "0:01:36.463",
+            "startSeconds": 85.4,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "hair",
+        "appearances": [
+          {
+            "startTime": "0:00:02.135",
+            "endTime": "0:00:04.271",
+            "startSeconds": 2.1,
+            "endSeconds": 4.3
+          },
+          {
+            "startTime": "0:00:12.813",
+            "endTime": "0:00:21.355",
+            "startSeconds": 12.8,
+            "endSeconds": 21.4
+          },
+          {
+            "startTime": "0:01:17.945",
+            "endTime": "0:01:19.013",
+            "startSeconds": 77.9,
+            "endSeconds": 79
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "typography",
+        "appearances": [
+          {
+            "startTime": "0:01:21.148",
+            "endTime": "0:01:25.419",
+            "startSeconds": 81.1,
+            "endSeconds": 85.4
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "logo",
+        "appearances": [
+          {
+            "startTime": "0:01:21.148",
+            "endTime": "0:01:25.419",
+            "startSeconds": 81.1,
+            "endSeconds": 85.4
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "font",
+        "appearances": [
+          {
+            "startTime": "0:01:22.215",
+            "endTime": "0:01:25.419",
+            "startSeconds": 82.2,
+            "endSeconds": 85.4
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "illustration",
+        "appearances": [
+          {
+            "startTime": "0:01:21.148",
+            "endTime": "0:01:23.283",
+            "startSeconds": 81.1,
+            "endSeconds": 83.3
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "screen",
+        "appearances": [
+          {
+            "startTime": "0:00:02.135",
+            "endTime": "0:00:03.203",
+            "startSeconds": 2.1,
+            "endSeconds": 3.2
+          },
+          {
+            "startTime": "0:01:36.096",
+            "endTime": "0:01:36.463",
+            "startSeconds": 96.1,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "forehead",
+        "appearances": [
+          {
+            "startTime": "0:01:05.132",
+            "endTime": "0:01:06.2",
+            "startSeconds": 65.1,
+            "endSeconds": 66.2
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "spectacles",
+        "appearances": [
+          {
+            "startTime": "0:00:44.845",
+            "endTime": "0:00:45.913",
+            "startSeconds": 44.8,
+            "endSeconds": 45.9
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "business",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:01.068",
+            "startSeconds": 0,
+            "endSeconds": 1.1
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "wearing",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:00:01.068",
+            "startSeconds": 0,
+            "endSeconds": 1.1
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "sign",
+        "appearances": [
+          {
+            "startTime": "0:00:01.068",
+            "endTime": "0:00:02.136",
+            "startSeconds": 1.1,
+            "endSeconds": 2.1
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "minimalist",
+        "appearances": [
+          {
+            "startTime": "0:01:20.08",
+            "endTime": "0:01:21.148",
+            "startSeconds": 80.1,
+            "endSeconds": 81.1
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "red",
+        "appearances": [
+          {
+            "startTime": "0:01:20.08",
+            "endTime": "0:01:21.148",
+            "startSeconds": 80.1,
+            "endSeconds": 81.1
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "carmine",
+        "appearances": [
+          {
+            "startTime": "0:01:20.08",
+            "endTime": "0:01:21.148",
+            "startSeconds": 80.1,
+            "endSeconds": 81.1
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "colorfulness",
+        "appearances": [
+          {
+            "startTime": "0:01:20.08",
+            "endTime": "0:01:21.148",
+            "startSeconds": 80.1,
+            "endSeconds": 81.1
+          }
+        ]
+      }
+    ],
+    "framePatterns": [
+      {
+        "id": 1,
+        "name": "RollingCredits",
+        "appearances": [
+          {
+            "startTime": "0:01:31",
+            "endTime": "0:01:36",
+            "startSeconds": 91,
+            "endSeconds": 96
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Black",
+        "appearances": [
+          {
+            "startTime": "0:01:19.513",
+            "endTime": "0:01:19.613",
+            "startSeconds": 79.5,
+            "endSeconds": 79.6
+          },
+          {
+            "startTime": "0:01:24.551",
+            "endTime": "0:01:24.618",
+            "startSeconds": 84.6,
+            "endSeconds": 84.6
+          },
+          {
+            "startTime": "0:01:36.396",
+            "endTime": "0:01:36.43",
+            "startSeconds": 96.4,
+            "endSeconds": 96.4
+          }
+        ]
+      }
+    ],
+    "brands": [
+      {
+        "referenceId": "Medison",
+        "referenceUrl": "http://en.wikipedia.org/wiki/Medison",
+        "confidence": 0.7395,
+        "description": "Medison is a Swedish consulting company registered in the UK. In July 2007, Medison caused massive attention world-wide as it announced its Medison Celebrity notebook computer which it would be selling for just $150. However, critics suspected it to be a fraud and orders have yet to be delivered. As of September 2007, Medison's account at 2CheckOut had been suspended.",
+        "seenDuration": 5.7,
+        "id": 2,
+        "name": "Medison",
+        "appearances": [
+          {
+            "startTime": "0:00:07.65",
+            "endTime": "0:00:13.26",
+            "startSeconds": 7.6,
+            "endSeconds": 13.3
+          }
+        ]
+      },
+      {
+        "referenceId": "MSNBC",
+        "referenceUrl": "http://en.wikipedia.org/wiki/MSNBC",
+        "confidence": 0.8764,
+        "description": "MSNBC is an American basic cable and satellite television network that provides news coverage and political commentary from NBC News on current events. The network also carries a prime-time 'opinion page' programming bloc with a mostly progressive slant. It is owned by the NBCUniversal News Group, a unit of the NBCUniversal Television Group division of NBCUniversal.",
+        "seenDuration": 2.8,
+        "id": 3,
+        "name": "MSNBC",
+        "appearances": [
+          {
+            "startTime": "0:01:24.86",
+            "endTime": "0:01:27.68",
+            "startSeconds": 84.9,
+            "endSeconds": 87.7
+          }
+        ]
+      },
+      {
+        "referenceId": "YouTube",
+        "referenceUrl": "http://en.wikipedia.org/wiki/YouTube",
+        "confidence": 0.3364,
+        "description": "YouTube is a video-sharing website headquartered in San Bruno, California, United States. The service was created by three former PayPal employees in February 2005. In November 2006, it was bought by Google for US$1.65 billion. YouTube now operates as one of Google's subsidiaries.",
+        "seenDuration": 1.4,
+        "id": 1,
+        "name": "YouTube",
+        "appearances": [
+          {
+            "startTime": "0:01:26.27",
+            "endTime": "0:01:27.68",
+            "startSeconds": 86.3,
+            "endSeconds": 87.7
+          }
+        ]
+      }
+    ],
+    "namedLocations": [
+      {
+        "referenceId": "Jasper,_Indiana",
+        "referenceUrl": "https://en.wikipedia.org/wiki/Jasper,_Indiana",
+        "confidence": 0.7297,
+        "description": "Jasper is a city in Dubois County, Indiana, United States located along the Patoka River. The population was 15,038 at the 2010 census making it the 55th largest city in Indiana. Jasper has been the county seat of Dubois County since 1830, succeeding Portersville. On November 4, 2007, Dubois County returned to the Eastern Time Zone, after having moved to the Central Time Zone the previous year.",
+        "seenDuration": 3.7,
+        "id": 1,
+        "name": "Jasper, Indiana",
+        "appearances": [
+          {
+            "startTime": "0:00:24.291",
+            "endTime": "0:00:28.028",
+            "startSeconds": 24.3,
+            "endSeconds": 28
+          }
+        ]
+      }
+    ],
+    "namedPeople": [
+      {
+        "referenceId": "Chris_Hayes",
+        "referenceUrl": "https://en.wikipedia.org/wiki/Chris_Hayes",
+        "confidence": 0.4187,
+        "description": "Chris Hayes net worth: Chris Hayes is an American political commentator, journalist, and author who has a net worth of $5 million dollars. Chris Hayes was born in The Bronx, New York in February 1979. He graduated from Brown University where he earned a Bachelor of Arts in Philosophy. He got his start in journalism at a weekly newspaper called Chicago Reader. He then worked at a labor magazine called In These Times for four years. He was a Puffin Foundation Writing Fellow at The Nation Institute. He got his start on television as a guest host for the Rachel Maddow Show in 2010. From here, he landed hosting gigs on other MSNBC shows. He was given his own two-hour weekend morning show called \"Up with Chris Hayes\" in 2011. Chris currently hosts the show \"All in with Chris Hayes\" on MSNBC which airs weekdays. He formerly hosted the MSNBC television series \"Up with Chris Hayes\". He is an editor at large of the Nation magazine. His first book \"Twilight of the Elites: America After Meritocracy\" was published in 2012 and his second book, \"A Colony in a Nation\" was published in March 2017. Hayes served as an adjunct professor of English at St. Augustine College in Chicago and was a regular contributor to the Chicago Reader. Chris is married to law professor Kate Shaw. Together they have three children.",
+        "seenDuration": 1.4,
+        "id": 2,
+        "name": "Chris Hayes",
+        "appearances": [
+          {
+            "startTime": "0:01:24.86",
+            "endTime": "0:01:26.27",
+            "startSeconds": 84.9,
+            "endSeconds": 86.3
+          }
+        ]
+      },
+      {
+        "referenceId": "Michael_Caputo",
+        "referenceUrl": "https://en.wikipedia.org/wiki/Michael_Caputo",
+        "confidence": 0.4661,
+        "description": "Michael R. Caputo (born 1962) is a Republican political strategist, and media consultant. He became enamored of Ronald Reagan while serving in the military and became a Republican, later working for politicians including Jack Kemp. He worked for the Reagan Administration with Oliver North, then as assistant director of the House of Representatives Gallery of the Radio and Television Correspondents' Association. He left that role to serve as director of media services on the campaign for President George H.W. Bush in the 1992 United States presidential election.",
+        "seenDuration": 0.9,
+        "id": 1,
+        "name": "Michael Caputo",
+        "appearances": [
+          {
+            "startTime": "0:00:00.467",
+            "endTime": "0:00:01.401",
+            "startSeconds": 0.5,
+            "endSeconds": 1.4
+          }
+        ]
+      }
+    ],
+    "statistics": {
+      "correspondenceCount": 3,
+      "speakerTalkToListenRatio": {
+        "1": 0.203,
+        "2": 0.669,
+        "3": 0.061,
+        "4": 0.065
+      },
+      "speakerLongestMonolog": {
+        "1": 18,
+        "2": 60,
+        "3": 5,
+        "4": 5
+      },
+      "speakerNumberOfFragments": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 1
+      },
+      "speakerWordCount": {
+        "1": 41,
+        "2": 168,
+        "3": 24,
+        "4": 22
+      }
+    },
+    "topics": [
+      {
+        "referenceUrl": null,
+        "iptcName": null,
+        "iabName": "Medical Health",
+        "confidence": 0.7966,
+        "id": 1,
+        "name": "Health",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:36.479",
+            "startSeconds": 0,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Companies",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.695,
+        "id": 2,
+        "name": "Companies",
+        "appearances": [
+          {
+            "startTime": "0:00:00.467",
+            "endTime": "0:00:13.26",
+            "startSeconds": 0.5,
+            "endSeconds": 13.3
+          },
+          {
+            "startTime": "0:01:21.281",
+            "endTime": "0:01:27.68",
+            "startSeconds": 81.3,
+            "endSeconds": 87.7
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Organizations",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.6918,
+        "id": 3,
+        "name": "Organizations",
+        "appearances": [
+          {
+            "startTime": "0:00:13.26",
+            "endTime": "0:00:48.29",
+            "startSeconds": 13.3,
+            "endSeconds": 48.3
+          },
+          {
+            "startTime": "0:00:58.392",
+            "endTime": "0:01:00.26",
+            "startSeconds": 58.4,
+            "endSeconds": 60.3
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Internet_properties",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.6845,
+        "id": 4,
+        "name": "Internet properties",
+        "appearances": [
+          {
+            "startTime": "0:01:26.27",
+            "endTime": "0:01:27.68",
+            "startSeconds": 86.3,
+            "endSeconds": 87.7
+          }
+        ]
+      },
+      {
+        "referenceUrl": "https://en.wikipedia.org/wiki/Category:Indiana",
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.6644,
+        "id": 5,
+        "name": "Indiana",
+        "appearances": [
+          {
+            "startTime": "0:00:24.291",
+            "endTime": "0:00:28.028",
+            "startSeconds": 24.3,
+            "endSeconds": 28
+          },
+          {
+            "startTime": "0:01:02.46",
+            "endTime": "0:01:05.63",
+            "startSeconds": 62.5,
+            "endSeconds": 65.6
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "Health/medicine",
+        "iabName": "Medical Health",
+        "confidence": 0.6587,
+        "id": 6,
+        "name": "Health and Wellbeing/Medicine and Healthcare",
+        "appearances": [
+          {
+            "startTime": "0:00:04.44",
+            "endTime": "0:00:56.19",
+            "startSeconds": 4.4,
+            "endSeconds": 56.2
+          },
+          {
+            "startTime": "0:01:02.46",
+            "endTime": "0:01:19.16",
+            "startSeconds": 62.5,
+            "endSeconds": 79.2
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": null,
+        "iabName": "News and Politics",
+        "confidence": 0.6191,
+        "id": 7,
+        "name": "Politics",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:36.479",
+            "startSeconds": 0,
+            "endSeconds": 96.5
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.5606,
+        "id": 8,
+        "name": "Health Care Policy",
+        "appearances": [
+          {
+            "startTime": "0:00:04.44",
+            "endTime": "0:00:56.19",
+            "startSeconds": 4.4,
+            "endSeconds": 56.2
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": null,
+        "iabName": null,
+        "confidence": 0.548,
+        "id": 9,
+        "name": "Public Health and Safety",
+        "appearances": [
+          {
+            "startTime": "0:00:04.44",
+            "endTime": "0:01:00.73",
+            "startSeconds": 4.4,
+            "endSeconds": 60.7
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "Science and Technology",
+        "iabName": "Technology & Computing",
+        "confidence": 0.4152,
+        "id": 10,
+        "name": "Technology/Safety",
+        "appearances": [
+          {
+            "startTime": "0:00:04.44",
+            "endTime": "0:01:00.73",
+            "startSeconds": 4.4,
+            "endSeconds": 60.7
+          }
+        ]
+      },
+      {
+        "referenceUrl": null,
+        "iptcName": "Science and Technology",
+        "iabName": "Science",
+        "confidence": 0.3483,
+        "id": 11,
+        "name": "Science/Existential Risks",
+        "appearances": [
+          {
+            "startTime": "0:00:00",
+            "endTime": "0:01:36.479",
+            "startSeconds": 0,
+            "endSeconds": 96.5
+          }
+        ]
+      }
+    ]
+  },
+  "videos": [
+    {
+      "accountId": "8046da76-6527-4646-bc4b-38de633bec1a",
+      "id": "9959fc9530",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureCode": "None",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:01:36.534",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [
+          "en-US"
+        ],
+        "language": "en-US",
+        "languages": [
+          "en-US"
+        ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "A doctor I'm about to grab drag you into politics again,",
+            "confidence": 0.9287,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.44",
+                "start": "0:00:00",
+                "end": "0:00:04.44"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "but at least it's the intersection of politics.",
+            "confidence": 0.9287,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.44",
+                "adjustedEnd": "0:00:07.65",
+                "start": "0:00:04.44",
+                "end": "0:00:07.65"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "An Medison. Is it really a good time during a pandemic to sow doubt,",
+            "confidence": 0.9287,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.65",
+                "adjustedEnd": "0:00:13.26",
+                "start": "0:00:07.65",
+                "end": "0:00:13.26"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "diminish and defund the World Health Organization?",
+            "confidence": 0.9287,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.26",
+                "adjustedEnd": "0:00:17.97",
+                "start": "0:00:13.26",
+                "end": "0:00:17.97"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "No,",
+            "confidence": 0.8413,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.97",
+                "adjustedEnd": "0:00:18.49",
+                "start": "0:00:17.97",
+                "end": "0:00:18.49"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "it's awful. I've been screaming at this for the last two days.",
+            "confidence": 0.8413,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.49",
+                "adjustedEnd": "0:00:24.71",
+                "start": "0:00:18.49",
+                "end": "0:00:24.71"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "World Health Organization is so vitally important to the world's response to these pandemics.",
+            "confidence": 0.9301,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.71",
+                "adjustedEnd": "0:00:30.21",
+                "start": "0:00:24.71",
+                "end": "0:00:30.21"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "We don't have a corollary that that expands worldwide.",
+            "confidence": 0.9301,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.21",
+                "adjustedEnd": "0:00:33.75",
+                "start": "0:00:30.21",
+                "end": "0:00:33.75"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "We have our CDC in the states,",
+            "confidence": 0.9301,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.75",
+                "adjustedEnd": "0:00:36.5",
+                "start": "0:00:33.75",
+                "end": "0:00:36.5"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "but I was talking earlier to a friend and we decided that defunding the World Health Organization in the middle of the pandemic is about like me refusing emergency trauma",
+            "confidence": 0.9301,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.5",
+                "adjustedEnd": "0:00:48.29",
+                "start": "0:00:36.5",
+                "end": "0:00:48.29"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "care to a teenager in a car crash because the police officer told me that he was texting and driving.",
+            "confidence": 0.9301,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.29",
+                "adjustedEnd": "0:00:56.19",
+                "start": "0:00:48.29",
+                "end": "0:00:56.19"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "So. We still gotta take care of what's going on now.",
+            "confidence": 0.871,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:56.19",
+                "adjustedEnd": "0:01:00.73",
+                "start": "0:00:56.19",
+                "end": "0:01:00.73"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Did they screw up hell man?",
+            "confidence": 0.9191,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.73",
+                "adjustedEnd": "0:01:02.46",
+                "start": "0:01:00.73",
+                "end": "0:01:02.46"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "I don't know I'm a redneck ER doctor from southern Indiana,",
+            "confidence": 0.9191,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02.46",
+                "adjustedEnd": "0:01:05.63",
+                "start": "0:01:02.46",
+                "end": "0:01:05.63"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "but I will tell you this,",
+            "confidence": 0.9191,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.63",
+                "adjustedEnd": "0:01:07.35",
+                "start": "0:01:05.63",
+                "end": "0:01:07.35"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "we need them right. They're gonna keep us safe.",
+            "confidence": 0.9191,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:07.35",
+                "adjustedEnd": "0:01:09.95",
+                "start": "0:01:07.35",
+                "end": "0:01:09.95"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "These viruses are coming from tropical areas from from East Asia and we've got to see them coming.",
+            "confidence": 0.9191,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:09.95",
+                "adjustedEnd": "0:01:15.13",
+                "start": "0:01:09.95",
+                "end": "0:01:15.13"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "And if we don't have them on board,",
+            "confidence": 0.9191,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:15.13",
+                "adjustedEnd": "0:01:17.43",
+                "start": "0:01:15.13",
+                "end": "0:01:17.43"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "I don't know what we're doing.",
+            "confidence": 0.9191,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:17.43",
+                "adjustedEnd": "0:01:19.16",
+                "start": "0:01:17.43",
+                "end": "0:01:19.16"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "Hey",
+            "confidence": 0.9168,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.62",
+                "adjustedEnd": "0:01:24.86",
+                "start": "0:01:24.62",
+                "end": "0:01:24.86"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "there, I'm Chris Hayes from MSNBC.",
+            "confidence": 0.9168,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.86",
+                "adjustedEnd": "0:01:26.27",
+                "start": "0:01:24.86",
+                "end": "0:01:26.27"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "Thanks for watching MSNBC on YouTube.",
+            "confidence": 0.9168,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:26.27",
+                "adjustedEnd": "0:01:27.68",
+                "start": "0:01:26.27",
+                "end": "0:01:27.68"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "If you want to keep up to date with the videos were",
+            "confidence": 0.9168,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:27.68",
+                "adjustedEnd": "0:01:30.5",
+                "start": "0:01:27.68",
+                "end": "0:01:30.5"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "putting out. You can click subscribe just below me or click over on this list to see lots of other great videos.",
+            "confidence": 0.9168,
+            "speakerId": 4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30.5",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:01:30.5",
+                "end": "0:01:36.479"
+              }
+            ]
+          }
+        ],
+        "ocr": [
+          {
+            "id": 1,
+            "text": "WATCH MORE",
+            "confidence": 0.5742,
+            "left": 797,
+            "top": 24,
+            "width": 352,
+            "height": 52,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:25.018",
+                "adjustedEnd": "0:01:26.887",
+                "start": "0:01:25.018",
+                "end": "0:01:26.887"
+              },
+              {
+                "adjustedStart": "0:01:27.354",
+                "adjustedEnd": "0:01:29.222",
+                "start": "0:01:27.354",
+                "end": "0:01:29.222"
+              },
+              {
+                "adjustedStart": "0:01:31.091",
+                "adjustedEnd": "0:01:31.558",
+                "start": "0:01:31.091",
+                "end": "0:01:31.558"
+              },
+              {
+                "adjustedStart": "0:01:32.96",
+                "adjustedEnd": "0:01:35.996",
+                "start": "0:01:32.96",
+                "end": "0:01:35.996"
+              },
+              {
+                "adjustedStart": "0:01:36.229",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:36.229",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "POLITICO",
+            "confidence": 0.4485,
+            "left": 254,
+            "top": 86,
+            "width": 330,
+            "height": 60,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:01.401",
+                "start": "0:00:00.467",
+                "end": "0:00:01.401"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "White House snubs Azar,",
+            "confidence": 0.8756,
+            "left": 118,
+            "top": 172,
+            "width": 600,
+            "height": 52,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:01.401",
+                "start": "0:00:00.467",
+                "end": "0:00:01.401"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "installs Trump loyalist",
+            "confidence": 0.859,
+            "left": 153,
+            "top": 237,
+            "width": 535,
+            "height": 54,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:01.401",
+                "start": "0:00:00.467",
+                "end": "0:00:01.401"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Michael Caputo as HHS",
+            "confidence": 0.9344,
+            "left": 142,
+            "top": 302,
+            "width": 557,
+            "height": 54,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:01.401",
+                "start": "0:00:00.467",
+                "end": "0:00:01.401"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "OMSNBC",
+            "confidence": 0.9948,
+            "left": 533,
+            "top": 324,
+            "width": 325,
+            "height": 70,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:21.281",
+                "adjustedEnd": "0:01:22.682",
+                "start": "0:01:21.281",
+                "end": "0:01:22.682"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "spokesperson",
+            "confidence": 0.9045,
+            "left": 254,
+            "top": 368,
+            "width": 330,
+            "height": 54,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:01.401",
+                "start": "0:00:00.467",
+                "end": "0:00:01.401"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "By DAN DIAMOND and DANIEL LIPPMAN",
+            "confidence": 0.4538,
+            "left": 158,
+            "top": 451,
+            "width": 523,
+            "height": 23,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:01.401",
+                "start": "0:00:00.467",
+                "end": "0:00:01.401"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "04/15/2020",
+            "confidence": 0.4765,
+            "left": 344,
+            "top": 488,
+            "width": 149,
+            "height": 24,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:01.401",
+                "start": "0:00:00.467",
+                "end": "0:00:01.401"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "BREAKING NEWS",
+            "confidence": 0.4899,
+            "left": 61,
+            "top": 566,
+            "width": 377,
+            "height": 32,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.401",
+                "adjustedEnd": "0:00:12.612",
+                "start": "0:00:01.401",
+                "end": "0:00:12.612"
+              },
+              {
+                "adjustedStart": "0:00:13.08",
+                "adjustedEnd": "0:00:28.028",
+                "start": "0:00:13.08",
+                "end": "0:00:28.028"
+              },
+              {
+                "adjustedStart": "0:00:28.495",
+                "adjustedEnd": "0:00:28.962",
+                "start": "0:00:28.495",
+                "end": "0:00:28.962"
+              },
+              {
+                "adjustedStart": "0:00:29.429",
+                "adjustedEnd": "0:00:29.896",
+                "start": "0:00:29.429",
+                "end": "0:00:29.896"
+              },
+              {
+                "adjustedStart": "0:00:30.364",
+                "adjustedEnd": "0:00:33.633",
+                "start": "0:00:30.364",
+                "end": "0:00:33.633"
+              },
+              {
+                "adjustedStart": "0:00:34.101",
+                "adjustedEnd": "0:00:34.568",
+                "start": "0:00:34.101",
+                "end": "0:00:34.568"
+              },
+              {
+                "adjustedStart": "0:00:35.969",
+                "adjustedEnd": "0:00:39.239",
+                "start": "0:00:35.969",
+                "end": "0:00:39.239"
+              },
+              {
+                "adjustedStart": "0:00:39.706",
+                "adjustedEnd": "0:00:43.443",
+                "start": "0:00:39.706",
+                "end": "0:00:43.443"
+              },
+              {
+                "adjustedStart": "0:00:44.378",
+                "adjustedEnd": "0:01:00.727",
+                "start": "0:00:44.378",
+                "end": "0:01:00.727"
+              },
+              {
+                "adjustedStart": "0:01:01.194",
+                "adjustedEnd": "0:01:02.129",
+                "start": "0:01:01.194",
+                "end": "0:01:02.129"
+              },
+              {
+                "adjustedStart": "0:01:02.596",
+                "adjustedEnd": "0:01:03.53",
+                "start": "0:01:02.596",
+                "end": "0:01:03.53"
+              },
+              {
+                "adjustedStart": "0:01:03.997",
+                "adjustedEnd": "0:01:19.88",
+                "start": "0:01:03.997",
+                "end": "0:01:19.88"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "EMERGENCY PHYSICIAN IN",
+            "confidence": 0.4064,
+            "left": 504,
+            "top": 616,
+            "width": 397,
+            "height": 28,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.291",
+                "adjustedEnd": "0:00:28.028",
+                "start": "0:00:24.291",
+                "end": "0:00:28.028"
+              },
+              {
+                "adjustedStart": "0:00:28.495",
+                "adjustedEnd": "0:00:28.962",
+                "start": "0:00:28.495",
+                "end": "0:00:28.962"
+              },
+              {
+                "adjustedStart": "0:00:29.429",
+                "adjustedEnd": "0:00:29.896",
+                "start": "0:00:29.429",
+                "end": "0:00:29.896"
+              },
+              {
+                "adjustedStart": "0:00:30.364",
+                "adjustedEnd": "0:00:33.633",
+                "start": "0:00:30.364",
+                "end": "0:00:33.633"
+              },
+              {
+                "adjustedStart": "0:00:34.101",
+                "adjustedEnd": "0:00:34.568",
+                "start": "0:00:34.101",
+                "end": "0:00:34.568"
+              },
+              {
+                "adjustedStart": "0:00:35.969",
+                "adjustedEnd": "0:00:39.239",
+                "start": "0:00:35.969",
+                "end": "0:00:39.239"
+              },
+              {
+                "adjustedStart": "0:00:39.706",
+                "adjustedEnd": "0:00:43.443",
+                "start": "0:00:39.706",
+                "end": "0:00:43.443"
+              },
+              {
+                "adjustedStart": "0:00:44.378",
+                "adjustedEnd": "0:00:44.845",
+                "start": "0:00:44.378",
+                "end": "0:00:44.845"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "OMSNBC",
+            "confidence": 0.4278,
+            "left": 1084,
+            "top": 622,
+            "width": 135,
+            "height": 38,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:00.934",
+                "start": "0:00:00.467",
+                "end": "0:00:00.934"
+              },
+              {
+                "adjustedStart": "0:00:01.401",
+                "adjustedEnd": "0:00:12.612",
+                "start": "0:00:01.401",
+                "end": "0:00:12.612"
+              },
+              {
+                "adjustedStart": "0:00:13.08",
+                "adjustedEnd": "0:00:26.159",
+                "start": "0:00:13.08",
+                "end": "0:00:26.159"
+              },
+              {
+                "adjustedStart": "0:00:30.364",
+                "adjustedEnd": "0:00:33.633",
+                "start": "0:00:30.364",
+                "end": "0:00:33.633"
+              },
+              {
+                "adjustedStart": "0:00:34.101",
+                "adjustedEnd": "0:00:34.568",
+                "start": "0:00:34.101",
+                "end": "0:00:34.568"
+              },
+              {
+                "adjustedStart": "0:00:35.969",
+                "adjustedEnd": "0:00:36.903",
+                "start": "0:00:35.969",
+                "end": "0:00:36.903"
+              },
+              {
+                "adjustedStart": "0:00:37.371",
+                "adjustedEnd": "0:00:37.838",
+                "start": "0:00:37.371",
+                "end": "0:00:37.838"
+              },
+              {
+                "adjustedStart": "0:00:40.641",
+                "adjustedEnd": "0:00:41.108",
+                "start": "0:00:40.641",
+                "end": "0:00:41.108"
+              },
+              {
+                "adjustedStart": "0:00:41.575",
+                "adjustedEnd": "0:00:42.509",
+                "start": "0:00:41.575",
+                "end": "0:00:42.509"
+              },
+              {
+                "adjustedStart": "0:00:48.115",
+                "adjustedEnd": "0:00:48.582",
+                "start": "0:00:48.115",
+                "end": "0:00:48.582"
+              },
+              {
+                "adjustedStart": "0:00:49.516",
+                "adjustedEnd": "0:00:53.253",
+                "start": "0:00:49.516",
+                "end": "0:00:53.253"
+              },
+              {
+                "adjustedStart": "0:00:53.72",
+                "adjustedEnd": "0:01:00.26",
+                "start": "0:00:53.72",
+                "end": "0:01:00.26"
+              },
+              {
+                "adjustedStart": "0:01:05.399",
+                "adjustedEnd": "0:01:05.866",
+                "start": "0:01:05.399",
+                "end": "0:01:05.866"
+              },
+              {
+                "adjustedStart": "0:01:06.333",
+                "adjustedEnd": "0:01:07.267",
+                "start": "0:01:06.333",
+                "end": "0:01:07.267"
+              },
+              {
+                "adjustedStart": "0:01:07.734",
+                "adjustedEnd": "0:01:19.88",
+                "start": "0:01:07.734",
+                "end": "0:01:19.88"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "SNBC",
+            "confidence": 0.3946,
+            "left": 1084,
+            "top": 622,
+            "width": 99,
+            "height": 38,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:01.194",
+                "adjustedEnd": "0:01:02.129",
+                "start": "0:01:01.194",
+                "end": "0:01:02.129"
+              },
+              {
+                "adjustedStart": "0:01:02.596",
+                "adjustedEnd": "0:01:03.53",
+                "start": "0:01:02.596",
+                "end": "0:01:03.53"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "SUBSCRIBE",
+            "confidence": 0.5035,
+            "left": 266,
+            "top": 624,
+            "width": 282,
+            "height": 49,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:25.018",
+                "adjustedEnd": "0:01:26.887",
+                "start": "0:01:25.018",
+                "end": "0:01:26.887"
+              },
+              {
+                "adjustedStart": "0:01:27.354",
+                "adjustedEnd": "0:01:29.222",
+                "start": "0:01:27.354",
+                "end": "0:01:29.222"
+              },
+              {
+                "adjustedStart": "0:01:31.091",
+                "adjustedEnd": "0:01:31.558",
+                "start": "0:01:31.091",
+                "end": "0:01:31.558"
+              },
+              {
+                "adjustedStart": "0:01:32.96",
+                "adjustedEnd": "0:01:35.996",
+                "start": "0:01:32.96",
+                "end": "0:01:35.996"
+              },
+              {
+                "adjustedStart": "0:01:36.229",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:36.229",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "DR. STEPHEN SAMPLE",
+            "confidence": 0.3984,
+            "left": 58,
+            "top": 628,
+            "width": 402,
+            "height": 39,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.291",
+                "adjustedEnd": "0:00:28.028",
+                "start": "0:00:24.291",
+                "end": "0:00:28.028"
+              },
+              {
+                "adjustedStart": "0:00:28.495",
+                "adjustedEnd": "0:00:28.962",
+                "start": "0:00:28.495",
+                "end": "0:00:28.962"
+              },
+              {
+                "adjustedStart": "0:00:29.429",
+                "adjustedEnd": "0:00:29.896",
+                "start": "0:00:29.429",
+                "end": "0:00:29.896"
+              },
+              {
+                "adjustedStart": "0:00:30.364",
+                "adjustedEnd": "0:00:33.633",
+                "start": "0:00:30.364",
+                "end": "0:00:33.633"
+              },
+              {
+                "adjustedStart": "0:00:34.101",
+                "adjustedEnd": "0:00:34.568",
+                "start": "0:00:34.101",
+                "end": "0:00:34.568"
+              },
+              {
+                "adjustedStart": "0:00:35.969",
+                "adjustedEnd": "0:00:39.239",
+                "start": "0:00:35.969",
+                "end": "0:00:39.239"
+              },
+              {
+                "adjustedStart": "0:00:39.706",
+                "adjustedEnd": "0:00:43.443",
+                "start": "0:00:39.706",
+                "end": "0:00:43.443"
+              },
+              {
+                "adjustedStart": "0:00:44.378",
+                "adjustedEnd": "0:00:44.845",
+                "start": "0:00:44.378",
+                "end": "0:00:44.845"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "TRUMP STEPS UPATTACKSONWORLDHEALTHORG.",
+            "confidence": 0.2665,
+            "left": 61,
+            "top": 630,
+            "width": 880,
+            "height": 39,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:44.845",
+                "adjustedEnd": "0:00:45.312",
+                "start": "0:00:44.845",
+                "end": "0:00:45.312"
+              },
+              {
+                "adjustedStart": "0:00:45.779",
+                "adjustedEnd": "0:00:47.18",
+                "start": "0:00:45.779",
+                "end": "0:00:47.18"
+              },
+              {
+                "adjustedStart": "0:00:47.648",
+                "adjustedEnd": "0:00:49.516",
+                "start": "0:00:47.648",
+                "end": "0:00:49.516"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "STEPS ATTACKS ON WORLD HEALTH ORG.",
+            "confidence": 0.3604,
+            "left": 186,
+            "top": 630,
+            "width": 755,
+            "height": 39,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.18",
+                "adjustedEnd": "0:00:47.647",
+                "start": "0:00:47.18",
+                "end": "0:00:47.647"
+              },
+              {
+                "adjustedStart": "0:00:49.516",
+                "adjustedEnd": "0:00:54.187",
+                "start": "0:00:49.516",
+                "end": "0:00:54.187"
+              },
+              {
+                "adjustedStart": "0:01:09.136",
+                "adjustedEnd": "0:01:10.07",
+                "start": "0:01:09.136",
+                "end": "0:01:10.07"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "TRUMP STEPS UP ATTACKS ON WORLD HEALTH ORG.",
+            "confidence": 0.3508,
+            "left": 186,
+            "top": 630,
+            "width": 755,
+            "height": 39,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58.392",
+                "adjustedEnd": "0:01:00.26",
+                "start": "0:00:58.392",
+                "end": "0:01:00.26"
+              },
+              {
+                "adjustedStart": "0:01:01.194",
+                "adjustedEnd": "0:01:02.129",
+                "start": "0:01:01.194",
+                "end": "0:01:02.129"
+              },
+              {
+                "adjustedStart": "0:01:02.596",
+                "adjustedEnd": "0:01:03.53",
+                "start": "0:01:02.596",
+                "end": "0:01:03.53"
+              },
+              {
+                "adjustedStart": "0:01:04.932",
+                "adjustedEnd": "0:01:05.399",
+                "start": "0:01:04.932",
+                "end": "0:01:05.399"
+              },
+              {
+                "adjustedStart": "0:01:10.07",
+                "adjustedEnd": "0:01:18.011",
+                "start": "0:01:10.07",
+                "end": "0:01:18.011"
+              },
+              {
+                "adjustedStart": "0:01:18.478",
+                "adjustedEnd": "0:01:19.88",
+                "start": "0:01:18.478",
+                "end": "0:01:19.88"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "JASPER, INDIANA",
+            "confidence": 0.4305,
+            "left": 502,
+            "top": 654,
+            "width": 255,
+            "height": 31,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.291",
+                "adjustedEnd": "0:00:28.028",
+                "start": "0:00:24.291",
+                "end": "0:00:28.028"
+              },
+              {
+                "adjustedStart": "0:00:28.495",
+                "adjustedEnd": "0:00:28.962",
+                "start": "0:00:28.495",
+                "end": "0:00:28.962"
+              },
+              {
+                "adjustedStart": "0:00:30.364",
+                "adjustedEnd": "0:00:33.633",
+                "start": "0:00:30.364",
+                "end": "0:00:33.633"
+              },
+              {
+                "adjustedStart": "0:00:34.101",
+                "adjustedEnd": "0:00:34.568",
+                "start": "0:00:34.101",
+                "end": "0:00:34.568"
+              },
+              {
+                "adjustedStart": "0:00:35.969",
+                "adjustedEnd": "0:00:39.239",
+                "start": "0:00:35.969",
+                "end": "0:00:39.239"
+              },
+              {
+                "adjustedStart": "0:00:39.706",
+                "adjustedEnd": "0:00:43.443",
+                "start": "0:00:39.706",
+                "end": "0:00:43.443"
+              },
+              {
+                "adjustedStart": "0:00:44.378",
+                "adjustedEnd": "0:00:44.845",
+                "start": "0:00:44.378",
+                "end": "0:00:44.845"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "trump steps",
+            "confidence": 0.9975,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:44.845",
+                "adjustedEnd": "0:00:45.312",
+                "start": "0:00:44.845",
+                "end": "0:00:45.312"
+              },
+              {
+                "adjustedStart": "0:00:58.392",
+                "adjustedEnd": "0:01:00.26",
+                "start": "0:00:58.392",
+                "end": "0:01:00.26"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "msnbc",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.86",
+                "adjustedEnd": "0:01:26.27",
+                "start": "0:01:24.86",
+                "end": "0:01:26.27"
+              },
+              {
+                "adjustedStart": "0:01:26.27",
+                "adjustedEnd": "0:01:27.68",
+                "start": "0:01:26.27",
+                "end": "0:01:27.68"
+              },
+              {
+                "adjustedStart": "0:01:21.281",
+                "adjustedEnd": "0:01:22.682",
+                "start": "0:01:21.281",
+                "end": "0:01:22.682"
+              },
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:00.934",
+                "start": "0:00:00.467",
+                "end": "0:00:00.934"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "click",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30.5",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:01:30.5",
+                "end": "0:01:36.479"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "subscribe",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30.5",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:01:30.5",
+                "end": "0:01:36.479"
+              },
+              {
+                "adjustedStart": "0:01:25.018",
+                "adjustedEnd": "0:01:26.887",
+                "start": "0:01:25.018",
+                "end": "0:01:26.887"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "attacks",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:44.845",
+                "adjustedEnd": "0:00:45.312",
+                "start": "0:00:44.845",
+                "end": "0:00:45.312"
+              },
+              {
+                "adjustedStart": "0:00:47.18",
+                "adjustedEnd": "0:00:47.647",
+                "start": "0:00:47.18",
+                "end": "0:00:47.647"
+              },
+              {
+                "adjustedStart": "0:00:58.392",
+                "adjustedEnd": "0:01:00.26",
+                "start": "0:00:58.392",
+                "end": "0:01:00.26"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "indiana",
+            "confidence": 0.8041,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:02.46",
+                "adjustedEnd": "0:01:05.63",
+                "start": "0:01:02.46",
+                "end": "0:01:05.63"
+              },
+              {
+                "adjustedStart": "0:00:24.291",
+                "adjustedEnd": "0:00:28.028",
+                "start": "0:00:24.291",
+                "end": "0:00:28.028"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "doctor",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.44",
+                "start": "0:00:00",
+                "end": "0:00:04.44"
+              },
+              {
+                "adjustedStart": "0:01:02.46",
+                "adjustedEnd": "0:01:05.63",
+                "start": "0:01:02.46",
+                "end": "0:01:05.63"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "politics",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:04.44",
+                "start": "0:00:00",
+                "end": "0:00:04.44"
+              },
+              {
+                "adjustedStart": "0:00:04.44",
+                "adjustedEnd": "0:00:07.65",
+                "start": "0:00:04.44",
+                "end": "0:00:07.65"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "pandemic",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:07.65",
+                "adjustedEnd": "0:00:13.26",
+                "start": "0:00:07.65",
+                "end": "0:00:13.26"
+              },
+              {
+                "adjustedStart": "0:00:24.71",
+                "adjustedEnd": "0:00:30.21",
+                "start": "0:00:24.71",
+                "end": "0:00:30.21"
+              },
+              {
+                "adjustedStart": "0:00:36.5",
+                "adjustedEnd": "0:00:48.29",
+                "start": "0:00:36.5",
+                "end": "0:00:48.29"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "defund",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.26",
+                "adjustedEnd": "0:00:17.97",
+                "start": "0:00:13.26",
+                "end": "0:00:17.97"
+              },
+              {
+                "adjustedStart": "0:00:36.5",
+                "adjustedEnd": "0:00:48.29",
+                "start": "0:00:36.5",
+                "end": "0:00:48.29"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "world",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.26",
+                "adjustedEnd": "0:00:17.97",
+                "start": "0:00:13.26",
+                "end": "0:00:17.97"
+              },
+              {
+                "adjustedStart": "0:00:24.71",
+                "adjustedEnd": "0:00:30.21",
+                "start": "0:00:24.71",
+                "end": "0:00:30.21"
+              },
+              {
+                "adjustedStart": "0:00:30.21",
+                "adjustedEnd": "0:00:33.75",
+                "start": "0:00:30.21",
+                "end": "0:00:33.75"
+              },
+              {
+                "adjustedStart": "0:00:36.5",
+                "adjustedEnd": "0:00:48.29",
+                "start": "0:00:36.5",
+                "end": "0:00:48.29"
+              },
+              {
+                "adjustedStart": "0:00:44.845",
+                "adjustedEnd": "0:00:45.312",
+                "start": "0:00:44.845",
+                "end": "0:00:45.312"
+              },
+              {
+                "adjustedStart": "0:00:47.18",
+                "adjustedEnd": "0:00:47.647",
+                "start": "0:00:47.18",
+                "end": "0:00:47.647"
+              },
+              {
+                "adjustedStart": "0:00:58.392",
+                "adjustedEnd": "0:01:00.26",
+                "start": "0:00:58.392",
+                "end": "0:01:00.26"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "care",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:48.29",
+                "adjustedEnd": "0:00:56.19",
+                "start": "0:00:48.29",
+                "end": "0:00:56.19"
+              },
+              {
+                "adjustedStart": "0:00:56.19",
+                "adjustedEnd": "0:01:00.73",
+                "start": "0:00:56.19",
+                "end": "0:01:00.73"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "coming",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:09.95",
+                "adjustedEnd": "0:01:15.13",
+                "start": "0:01:09.95",
+                "end": "0:01:15.13"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "videos",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:27.68",
+                "adjustedEnd": "0:01:30.5",
+                "start": "0:01:27.68",
+                "end": "0:01:30.5"
+              },
+              {
+                "adjustedStart": "0:01:30.5",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:01:30.5",
+                "end": "0:01:36.479"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "list",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30.5",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:01:30.5",
+                "end": "0:01:36.479"
+              },
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:01.401",
+                "start": "0:00:00.467",
+                "end": "0:00:01.401"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "watch",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:26.27",
+                "adjustedEnd": "0:01:27.68",
+                "start": "0:01:26.27",
+                "end": "0:01:27.68"
+              },
+              {
+                "adjustedStart": "0:01:25.018",
+                "adjustedEnd": "0:01:26.887",
+                "start": "0:01:25.018",
+                "end": "0:01:26.887"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "omsnbc",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:21.281",
+                "adjustedEnd": "0:01:22.682",
+                "start": "0:01:21.281",
+                "end": "0:01:22.682"
+              },
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:00.934",
+                "start": "0:00:00.467",
+                "end": "0:00:00.934"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "snbc",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.86",
+                "adjustedEnd": "0:01:26.27",
+                "start": "0:01:24.86",
+                "end": "0:01:26.27"
+              },
+              {
+                "adjustedStart": "0:01:26.27",
+                "adjustedEnd": "0:01:27.68",
+                "start": "0:01:26.27",
+                "end": "0:01:27.68"
+              },
+              {
+                "adjustedStart": "0:01:21.281",
+                "adjustedEnd": "0:01:22.682",
+                "start": "0:01:21.281",
+                "end": "0:01:22.682"
+              },
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:00.934",
+                "start": "0:00:00.467",
+                "end": "0:00:00.934"
+              },
+              {
+                "adjustedStart": "0:01:01.194",
+                "adjustedEnd": "0:01:02.129",
+                "start": "0:01:01.194",
+                "end": "0:01:02.129"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Health and Wellbeing",
+            "referenceId": "Health",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.7966,
+            "iabName": "Medical Health",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:00:00",
+                "end": "0:01:36.479"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Companies",
+            "referenceId": "Category:Companies",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Companies",
+            "referenceType": "Wikipedia",
+            "confidence": 0.695,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:13.26",
+                "start": "0:00:00.467",
+                "end": "0:00:13.26"
+              },
+              {
+                "adjustedStart": "0:01:21.281",
+                "adjustedEnd": "0:01:27.68",
+                "start": "0:01:21.281",
+                "end": "0:01:27.68"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Organizations",
+            "referenceId": "Category:Organizations",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Organizations",
+            "referenceType": "Wikipedia",
+            "confidence": 0.6918,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.26",
+                "adjustedEnd": "0:00:48.29",
+                "start": "0:00:13.26",
+                "end": "0:00:48.29"
+              },
+              {
+                "adjustedStart": "0:00:58.392",
+                "adjustedEnd": "0:01:00.26",
+                "start": "0:00:58.392",
+                "end": "0:01:00.26"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Internet properties",
+            "referenceId": "Category:Internet_properties",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Internet_properties",
+            "referenceType": "Wikipedia",
+            "confidence": 0.6845,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:26.27",
+                "adjustedEnd": "0:01:27.68",
+                "start": "0:01:26.27",
+                "end": "0:01:27.68"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Indiana",
+            "referenceId": "Category:Indiana",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Category:Indiana",
+            "referenceType": "Wikipedia",
+            "confidence": 0.6644,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:24.291",
+                "adjustedEnd": "0:00:28.028",
+                "start": "0:00:24.291",
+                "end": "0:00:28.028"
+              },
+              {
+                "adjustedStart": "0:01:02.46",
+                "adjustedEnd": "0:01:05.63",
+                "start": "0:01:02.46",
+                "end": "0:01:05.63"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Medicine and Healthcare",
+            "referenceId": "Health and Wellbeing/Medicine and Healthcare",
+            "referenceType": "VideoIndexer",
+            "iptcName": "Health/medicine",
+            "confidence": 0.6587,
+            "iabName": "Medical Health",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.44",
+                "adjustedEnd": "0:00:56.19",
+                "start": "0:00:04.44",
+                "end": "0:00:56.19"
+              },
+              {
+                "adjustedStart": "0:01:02.46",
+                "adjustedEnd": "0:01:19.16",
+                "start": "0:01:02.46",
+                "end": "0:01:19.16"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Politics and Government",
+            "referenceId": "Politics",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.6191,
+            "iabName": "News and Politics",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:00:00",
+                "end": "0:01:36.479"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Health Care Policy",
+            "referenceId": "Health Care Policy",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.5606,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.44",
+                "adjustedEnd": "0:00:56.19",
+                "start": "0:00:04.44",
+                "end": "0:00:56.19"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Public Health and Safety",
+            "referenceId": "Public Health and Safety",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.548,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.44",
+                "adjustedEnd": "0:01:00.73",
+                "start": "0:00:04.44",
+                "end": "0:01:00.73"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Safety",
+            "referenceId": "Technology/Safety",
+            "referenceType": "VideoIndexer",
+            "iptcName": "Science and Technology",
+            "confidence": 0.4152,
+            "iabName": "Technology & Computing",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:04.44",
+                "adjustedEnd": "0:01:00.73",
+                "start": "0:00:04.44",
+                "end": "0:01:00.73"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Existential Risks",
+            "referenceId": "Science/Existential Risks",
+            "referenceType": "VideoIndexer",
+            "iptcName": "Science and Technology",
+            "confidence": 0.3483,
+            "iabName": "Science",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:00:00",
+                "end": "0:01:36.479"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 1062,
+            "name": "Brian Williams",
+            "confidence": 0.9235,
+            "description": "Brian Williams was born on September 19, 1962 in New York, USA. He is an actor, known for Law & Order, Toy Soldiers and Born of Water.",
+            "thumbnailId": "7ca7f2ea-2c76-4c1b-8813-65e55a62d99d",
+            "referenceId": "b1a6eaa3-10d9-7c52-8cf1-70b2e37c038b",
+            "referenceType": "Bing",
+            "title": null,
+            "imageUrl": "https://www.bing.com/th?id=AMMS_23f35c67527245068fb89ff77be4f81a&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "thumbnails": [
+              {
+                "id": "7ca7f2ea-2c76-4c1b-8813-65e55a62d99d",
+                "fileName": "FaceInstanceThumbnail_7ca7f2ea-2c76-4c1b-8813-65e55a62d99d.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:04.538",
+                    "adjustedEnd": "0:00:04.571",
+                    "start": "0:00:04.538",
+                    "end": "0:00:04.571"
+                  }
+                ]
+              },
+              {
+                "id": "43669117-ae96-4845-adeb-12b7142da3f1",
+                "fileName": "FaceInstanceThumbnail_43669117-ae96-4845-adeb-12b7142da3f1.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.005",
+                    "adjustedEnd": "0:00:05.038",
+                    "start": "0:00:05.005",
+                    "end": "0:00:05.038"
+                  }
+                ]
+              },
+              {
+                "id": "6afdd6bd-3d7a-4d8d-b896-3c83e80fdf1b",
+                "fileName": "FaceInstanceThumbnail_6afdd6bd-3d7a-4d8d-b896-3c83e80fdf1b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.01",
+                    "adjustedEnd": "0:00:10.043",
+                    "start": "0:00:10.01",
+                    "end": "0:00:10.043"
+                  }
+                ]
+              },
+              {
+                "id": "f5f6fc16-3f75-4703-a777-6da6a1e0a52c",
+                "fileName": "FaceInstanceThumbnail_f5f6fc16-3f75-4703-a777-6da6a1e0a52c.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.015",
+                    "adjustedEnd": "0:00:15.048",
+                    "start": "0:00:15.015",
+                    "end": "0:00:15.048"
+                  }
+                ]
+              },
+              {
+                "id": "0bd652a3-e41e-4485-9432-5287431c6b02",
+                "fileName": "FaceInstanceThumbnail_0bd652a3-e41e-4485-9432-5287431c6b02.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.02",
+                    "adjustedEnd": "0:00:20.053",
+                    "start": "0:00:20.02",
+                    "end": "0:00:20.053"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "7ca7f2ea-2c76-4c1b-8813-65e55a62d99d",
+                  "43669117-ae96-4845-adeb-12b7142da3f1",
+                  "6afdd6bd-3d7a-4d8d-b896-3c83e80fdf1b",
+                  "f5f6fc16-3f75-4703-a777-6da6a1e0a52c",
+                  "0bd652a3-e41e-4485-9432-5287431c6b02"
+                ],
+                "adjustedStart": "0:00:01.268",
+                "adjustedEnd": "0:00:21.154",
+                "start": "0:00:01.268",
+                "end": "0:00:21.154"
+              }
+            ]
+          },
+          {
+            "id": 3092,
+            "name": "Chris Hayes",
+            "confidence": 0.9998,
+            "description": "Christopher Loffredo Hayes is an American progressive commentator, cable television news anchor, author. Hayes hosts All In with Chris Hayes, a weekday news and opinion television show on MSNBC. Hayes also hosts a weekly MSNBC podcast, Why Is This Happening? Hayes formerly …",
+            "thumbnailId": "27c18da4-9318-4c37-8304-0ab0f8293339",
+            "referenceId": "d9a49ca1-5527-ad20-53a0-33b9c4366626",
+            "referenceType": "Bing",
+            "title": "Commentator",
+            "imageUrl": "https://www.bing.com/th?id=AMMS_8278b86ec1531a41aabd21ea59a6be19&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "thumbnails": [
+              {
+                "id": "6f6bd568-8158-4f00-b850-670880644858",
+                "fileName": "FaceInstanceThumbnail_6f6bd568-8158-4f00-b850-670880644858.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:24.685",
+                    "adjustedEnd": "0:01:24.718",
+                    "start": "0:01:24.685",
+                    "end": "0:01:24.718"
+                  }
+                ]
+              },
+              {
+                "id": "27c18da4-9318-4c37-8304-0ab0f8293339",
+                "fileName": "FaceInstanceThumbnail_27c18da4-9318-4c37-8304-0ab0f8293339.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:25.352",
+                    "adjustedEnd": "0:01:25.385",
+                    "start": "0:01:25.352",
+                    "end": "0:01:25.385"
+                  }
+                ]
+              },
+              {
+                "id": "95586268-b1d6-4640-9ffe-dc1eed0040b4",
+                "fileName": "FaceInstanceThumbnail_95586268-b1d6-4640-9ffe-dc1eed0040b4.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:29.69",
+                    "adjustedEnd": "0:01:29.723",
+                    "start": "0:01:29.69",
+                    "end": "0:01:29.723"
+                  }
+                ]
+              },
+              {
+                "id": "88eb7b8c-e0b9-4402-975b-7950ad55885b",
+                "fileName": "FaceInstanceThumbnail_88eb7b8c-e0b9-4402-975b-7950ad55885b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:34.695",
+                    "adjustedEnd": "0:01:34.728",
+                    "start": "0:01:34.695",
+                    "end": "0:01:34.728"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "6f6bd568-8158-4f00-b850-670880644858",
+                  "27c18da4-9318-4c37-8304-0ab0f8293339",
+                  "95586268-b1d6-4640-9ffe-dc1eed0040b4",
+                  "88eb7b8c-e0b9-4402-975b-7950ad55885b"
+                ],
+                "adjustedStart": "0:01:24.685",
+                "adjustedEnd": "0:01:36.429",
+                "start": "0:01:24.685",
+                "end": "0:01:36.429"
+              }
+            ]
+          },
+          {
+            "id": 2159,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "d524a0a7-dffd-46a5-a2f5-04f9fb07f0f6",
+            "title": null,
+            "imageUrl": null,
+            "thumbnails": [
+              {
+                "id": "b5a54bf9-8483-45a0-ab23-e98dc8ef022b",
+                "fileName": "FaceInstanceThumbnail_b5a54bf9-8483-45a0-ab23-e98dc8ef022b.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.005",
+                    "adjustedEnd": "0:00:05.038",
+                    "start": "0:00:05.005",
+                    "end": "0:00:05.038"
+                  }
+                ]
+              },
+              {
+                "id": "4d00eba9-e273-441b-91c3-6881ab6c6b98",
+                "fileName": "FaceInstanceThumbnail_4d00eba9-e273-441b-91c3-6881ab6c6b98.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.01",
+                    "adjustedEnd": "0:00:10.043",
+                    "start": "0:00:10.01",
+                    "end": "0:00:10.043"
+                  }
+                ]
+              },
+              {
+                "id": "55337fab-279a-41ad-be6b-3ef68ce2c957",
+                "fileName": "FaceInstanceThumbnail_55337fab-279a-41ad-be6b-3ef68ce2c957.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.015",
+                    "adjustedEnd": "0:00:15.048",
+                    "start": "0:00:15.015",
+                    "end": "0:00:15.048"
+                  }
+                ]
+              },
+              {
+                "id": "d524a0a7-dffd-46a5-a2f5-04f9fb07f0f6",
+                "fileName": "FaceInstanceThumbnail_d524a0a7-dffd-46a5-a2f5-04f9fb07f0f6.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.02",
+                    "adjustedEnd": "0:00:20.053",
+                    "start": "0:00:20.02",
+                    "end": "0:00:20.053"
+                  }
+                ]
+              },
+              {
+                "id": "e8e42e53-4669-4fc3-a45f-0419e32302bf",
+                "fileName": "FaceInstanceThumbnail_e8e42e53-4669-4fc3-a45f-0419e32302bf.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:25.025",
+                    "adjustedEnd": "0:00:25.058",
+                    "start": "0:00:25.025",
+                    "end": "0:00:25.058"
+                  }
+                ]
+              },
+              {
+                "id": "ce98d7f5-f99b-404e-94e6-442d71c16e32",
+                "fileName": "FaceInstanceThumbnail_ce98d7f5-f99b-404e-94e6-442d71c16e32.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:30.03",
+                    "adjustedEnd": "0:00:30.063",
+                    "start": "0:00:30.03",
+                    "end": "0:00:30.063"
+                  }
+                ]
+              },
+              {
+                "id": "faf6194d-6b20-492e-bea1-09a8ccd13ddc",
+                "fileName": "FaceInstanceThumbnail_faf6194d-6b20-492e-bea1-09a8ccd13ddc.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:35.035",
+                    "adjustedEnd": "0:00:35.068",
+                    "start": "0:00:35.035",
+                    "end": "0:00:35.068"
+                  }
+                ]
+              },
+              {
+                "id": "a4682bc9-93ff-427b-8a41-fe2df4c5a436",
+                "fileName": "FaceInstanceThumbnail_a4682bc9-93ff-427b-8a41-fe2df4c5a436.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:40.04",
+                    "adjustedEnd": "0:00:40.073",
+                    "start": "0:00:40.04",
+                    "end": "0:00:40.073"
+                  }
+                ]
+              },
+              {
+                "id": "dd8b2435-e2b2-40d5-a351-0026355ff1cd",
+                "fileName": "FaceInstanceThumbnail_dd8b2435-e2b2-40d5-a351-0026355ff1cd.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:45.045",
+                    "adjustedEnd": "0:00:45.078",
+                    "start": "0:00:45.045",
+                    "end": "0:00:45.078"
+                  }
+                ]
+              },
+              {
+                "id": "26a07a5c-f31b-48f0-bfea-a7c44af91105",
+                "fileName": "FaceInstanceThumbnail_26a07a5c-f31b-48f0-bfea-a7c44af91105.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:46.513",
+                    "adjustedEnd": "0:00:46.546",
+                    "start": "0:00:46.513",
+                    "end": "0:00:46.546"
+                  }
+                ]
+              },
+              {
+                "id": "84575570-a734-4be5-96e2-f49051b50619",
+                "fileName": "FaceInstanceThumbnail_84575570-a734-4be5-96e2-f49051b50619.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:50.05",
+                    "adjustedEnd": "0:00:50.083",
+                    "start": "0:00:50.05",
+                    "end": "0:00:50.083"
+                  }
+                ]
+              },
+              {
+                "id": "f387c93b-c9b7-4fb1-81eb-2b8158a34fbb",
+                "fileName": "FaceInstanceThumbnail_f387c93b-c9b7-4fb1-81eb-2b8158a34fbb.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:55.055",
+                    "adjustedEnd": "0:00:55.088",
+                    "start": "0:00:55.055",
+                    "end": "0:00:55.088"
+                  }
+                ]
+              },
+              {
+                "id": "c6a8c11f-5ae9-4a40-89c5-fff835cce733",
+                "fileName": "FaceInstanceThumbnail_c6a8c11f-5ae9-4a40-89c5-fff835cce733.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:00.06",
+                    "adjustedEnd": "0:01:00.093",
+                    "start": "0:01:00.06",
+                    "end": "0:01:00.093"
+                  }
+                ]
+              },
+              {
+                "id": "df8f9c30-5d73-4e4a-a58e-824716cf82ca",
+                "fileName": "FaceInstanceThumbnail_df8f9c30-5d73-4e4a-a58e-824716cf82ca.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:05.065",
+                    "adjustedEnd": "0:01:05.098",
+                    "start": "0:01:05.065",
+                    "end": "0:01:05.098"
+                  }
+                ]
+              },
+              {
+                "id": "01dcf5c7-da7f-4872-aea4-d5ec31024bd5",
+                "fileName": "FaceInstanceThumbnail_01dcf5c7-da7f-4872-aea4-d5ec31024bd5.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:10.07",
+                    "adjustedEnd": "0:01:10.103",
+                    "start": "0:01:10.07",
+                    "end": "0:01:10.103"
+                  }
+                ]
+              },
+              {
+                "id": "d2fe8999-5925-4bc0-9f72-3ce07a632860",
+                "fileName": "FaceInstanceThumbnail_d2fe8999-5925-4bc0-9f72-3ce07a632860.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:15.075",
+                    "adjustedEnd": "0:01:15.108",
+                    "start": "0:01:15.075",
+                    "end": "0:01:15.108"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "faf6194d-6b20-492e-bea1-09a8ccd13ddc",
+                  "a4682bc9-93ff-427b-8a41-fe2df4c5a436",
+                  "dd8b2435-e2b2-40d5-a351-0026355ff1cd",
+                  "26a07a5c-f31b-48f0-bfea-a7c44af91105",
+                  "84575570-a734-4be5-96e2-f49051b50619",
+                  "b5a54bf9-8483-45a0-ab23-e98dc8ef022b",
+                  "f387c93b-c9b7-4fb1-81eb-2b8158a34fbb",
+                  "c6a8c11f-5ae9-4a40-89c5-fff835cce733",
+                  "df8f9c30-5d73-4e4a-a58e-824716cf82ca",
+                  "01dcf5c7-da7f-4872-aea4-d5ec31024bd5",
+                  "d2fe8999-5925-4bc0-9f72-3ce07a632860",
+                  "4d00eba9-e273-441b-91c3-6881ab6c6b98",
+                  "55337fab-279a-41ad-be6b-3ef68ce2c957",
+                  "d524a0a7-dffd-46a5-a2f5-04f9fb07f0f6",
+                  "e8e42e53-4669-4fc3-a45f-0419e32302bf",
+                  "ce98d7f5-f99b-404e-94e6-442d71c16e32"
+                ],
+                "adjustedStart": "0:00:01.001",
+                "adjustedEnd": "0:01:19.512",
+                "start": "0:00:01.001",
+                "end": "0:01:19.512"
+              }
+            ]
+          },
+          {
+            "id": 1020,
+            "name": "Unknown #2",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "0444b28e-401a-4088-b163-5c259852fc58",
+            "title": null,
+            "imageUrl": null,
+            "thumbnails": [
+              {
+                "id": "993a5d1d-0082-4a6c-8beb-43d7712ed3cd",
+                "fileName": "FaceInstanceThumbnail_993a5d1d-0082-4a6c-8beb-43d7712ed3cd.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:01.201",
+                    "adjustedEnd": "0:00:01.234",
+                    "start": "0:00:01.201",
+                    "end": "0:00:01.234"
+                  }
+                ]
+              },
+              {
+                "id": "0444b28e-401a-4088-b163-5c259852fc58",
+                "fileName": "FaceInstanceThumbnail_0444b28e-401a-4088-b163-5c259852fc58.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.005",
+                    "adjustedEnd": "0:00:05.038",
+                    "start": "0:00:05.005",
+                    "end": "0:00:05.038"
+                  }
+                ]
+              },
+              {
+                "id": "61dcc831-800c-4a2a-bbf9-1b8c5a1e879f",
+                "fileName": "FaceInstanceThumbnail_61dcc831-800c-4a2a-bbf9-1b8c5a1e879f.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.01",
+                    "adjustedEnd": "0:00:10.043",
+                    "start": "0:00:10.01",
+                    "end": "0:00:10.043"
+                  }
+                ]
+              },
+              {
+                "id": "b9c96c21-7b55-40d1-8724-d0dc6d916423",
+                "fileName": "FaceInstanceThumbnail_b9c96c21-7b55-40d1-8724-d0dc6d916423.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.015",
+                    "adjustedEnd": "0:00:15.048",
+                    "start": "0:00:15.015",
+                    "end": "0:00:15.048"
+                  }
+                ]
+              },
+              {
+                "id": "c0364e1c-921b-4d04-9cab-fd1f42c5d7d1",
+                "fileName": "FaceInstanceThumbnail_c0364e1c-921b-4d04-9cab-fd1f42c5d7d1.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.02",
+                    "adjustedEnd": "0:00:20.053",
+                    "start": "0:00:20.02",
+                    "end": "0:00:20.053"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "0444b28e-401a-4088-b163-5c259852fc58",
+                  "61dcc831-800c-4a2a-bbf9-1b8c5a1e879f",
+                  "993a5d1d-0082-4a6c-8beb-43d7712ed3cd",
+                  "b9c96c21-7b55-40d1-8724-d0dc6d916423",
+                  "c0364e1c-921b-4d04-9cab-fd1f42c5d7d1"
+                ],
+                "adjustedStart": "0:00:01.068",
+                "adjustedEnd": "0:00:21.154",
+                "start": "0:00:01.068",
+                "end": "0:00:21.154"
+              }
+            ]
+          },
+          {
+            "id": 1024,
+            "name": "Unknown #3",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "ebb89305-892f-4c01-9432-a092f674ac3a",
+            "title": null,
+            "imageUrl": null,
+            "thumbnails": [
+              {
+                "id": "40e48220-d3ae-48a2-ae78-8731148883d7",
+                "fileName": "FaceInstanceThumbnail_40e48220-d3ae-48a2-ae78-8731148883d7.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:01.468",
+                    "adjustedEnd": "0:00:01.501",
+                    "start": "0:00:01.468",
+                    "end": "0:00:01.501"
+                  }
+                ]
+              },
+              {
+                "id": "ebb89305-892f-4c01-9432-a092f674ac3a",
+                "fileName": "FaceInstanceThumbnail_ebb89305-892f-4c01-9432-a092f674ac3a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.005",
+                    "adjustedEnd": "0:00:05.038",
+                    "start": "0:00:05.005",
+                    "end": "0:00:05.038"
+                  }
+                ]
+              },
+              {
+                "id": "f71d0789-c158-41da-a588-5bd20b948e12",
+                "fileName": "FaceInstanceThumbnail_f71d0789-c158-41da-a588-5bd20b948e12.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.01",
+                    "adjustedEnd": "0:00:10.043",
+                    "start": "0:00:10.01",
+                    "end": "0:00:10.043"
+                  }
+                ]
+              },
+              {
+                "id": "bd410c01-3612-425c-b3fd-2049a2be2d6e",
+                "fileName": "FaceInstanceThumbnail_bd410c01-3612-425c-b3fd-2049a2be2d6e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.015",
+                    "adjustedEnd": "0:00:15.048",
+                    "start": "0:00:15.015",
+                    "end": "0:00:15.048"
+                  }
+                ]
+              },
+              {
+                "id": "37aa15c9-ba49-4d64-b51e-4359d1b4f1b2",
+                "fileName": "FaceInstanceThumbnail_37aa15c9-ba49-4d64-b51e-4359d1b4f1b2.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.02",
+                    "adjustedEnd": "0:00:20.053",
+                    "start": "0:00:20.02",
+                    "end": "0:00:20.053"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "ebb89305-892f-4c01-9432-a092f674ac3a",
+                  "f71d0789-c158-41da-a588-5bd20b948e12",
+                  "40e48220-d3ae-48a2-ae78-8731148883d7",
+                  "bd410c01-3612-425c-b3fd-2049a2be2d6e",
+                  "37aa15c9-ba49-4d64-b51e-4359d1b4f1b2"
+                ],
+                "adjustedStart": "0:00:01.201",
+                "adjustedEnd": "0:00:21.154",
+                "start": "0:00:01.201",
+                "end": "0:00:21.154"
+              }
+            ]
+          },
+          {
+            "id": 1000,
+            "name": "Unknown #4",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "d615d090-24d8-4946-a9e0-c548ab50ddba",
+            "title": null,
+            "imageUrl": null,
+            "thumbnails": [
+              {
+                "id": "79b1d52c-1c95-44f4-900b-fc1e29cde381",
+                "fileName": "FaceInstanceThumbnail_79b1d52c-1c95-44f4-900b-fc1e29cde381.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:00",
+                    "adjustedEnd": "0:00:00.033",
+                    "start": "0:00:00",
+                    "end": "0:00:00.033"
+                  }
+                ]
+              },
+              {
+                "id": "d615d090-24d8-4946-a9e0-c548ab50ddba",
+                "fileName": "FaceInstanceThumbnail_d615d090-24d8-4946-a9e0-c548ab50ddba.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:01.001",
+                    "adjustedEnd": "0:00:01.034",
+                    "start": "0:00:01.001",
+                    "end": "0:00:01.034"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [
+                  "79b1d52c-1c95-44f4-900b-fc1e29cde381",
+                  "d615d090-24d8-4946-a9e0-c548ab50ddba"
+                ],
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.769",
+                "start": "0:00:00",
+                "end": "0:00:02.769"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "text",
+            "referenceId": "communication/writing/text",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9988,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:00:00",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "graphic",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9893,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.136",
+                "start": "0:00:00",
+                "end": "0:00:02.136"
+              },
+              {
+                "confidence": 0.9931,
+                "adjustedStart": "0:01:21.148",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:21.148",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9887,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:20.08",
+                "start": "0:00:00",
+                "end": "0:01:20.08"
+              },
+              {
+                "confidence": 0.9665,
+                "adjustedStart": "0:01:25.419",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:25.419",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9808,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:20.08",
+                "start": "0:00:00",
+                "end": "0:01:20.08"
+              },
+              {
+                "confidence": 0.9803,
+                "adjustedStart": "0:01:25.419",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:25.419",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9729,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.068",
+                "start": "0:00:00",
+                "end": "0:00:01.068"
+              },
+              {
+                "confidence": 0.9244,
+                "adjustedStart": "0:00:21.355",
+                "adjustedEnd": "0:00:45.913",
+                "start": "0:00:21.355",
+                "end": "0:00:45.913"
+              },
+              {
+                "confidence": 0.9176,
+                "adjustedStart": "0:00:46.98",
+                "adjustedEnd": "0:00:48.048",
+                "start": "0:00:46.98",
+                "end": "0:00:48.048"
+              },
+              {
+                "confidence": 0.9122,
+                "adjustedStart": "0:00:49.116",
+                "adjustedEnd": "0:01:06.2",
+                "start": "0:00:49.116",
+                "end": "0:01:06.2"
+              },
+              {
+                "confidence": 0.9081,
+                "adjustedStart": "0:01:07.267",
+                "adjustedEnd": "0:01:13.674",
+                "start": "0:01:07.267",
+                "end": "0:01:13.674"
+              },
+              {
+                "confidence": 0.905,
+                "adjustedStart": "0:01:16.877",
+                "adjustedEnd": "0:01:19.013",
+                "start": "0:01:16.877",
+                "end": "0:01:19.013"
+              },
+              {
+                "confidence": 0.9724,
+                "adjustedStart": "0:01:25.419",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:25.419",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "glasses",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9522,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:02.136",
+                "start": "0:00:00",
+                "end": "0:00:02.136"
+              },
+              {
+                "confidence": 0.953,
+                "adjustedStart": "0:00:21.355",
+                "adjustedEnd": "0:01:20.08",
+                "start": "0:00:21.355",
+                "end": "0:01:20.08"
+              },
+              {
+                "confidence": 0.9389,
+                "adjustedStart": "0:01:25.419",
+                "adjustedEnd": "0:01:27.554",
+                "start": "0:01:25.419",
+                "end": "0:01:27.554"
+              },
+              {
+                "confidence": 0.9458,
+                "adjustedStart": "0:01:28.622",
+                "adjustedEnd": "0:01:36.096",
+                "start": "0:01:28.622",
+                "end": "0:01:36.096"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "suit",
+            "referenceId": "consumer goods/clothing/suit",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9379,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.068",
+                "start": "0:00:00",
+                "end": "0:00:01.068"
+              },
+              {
+                "confidence": 0.9666,
+                "adjustedStart": "0:01:25.419",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:25.419",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "screenshot",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9416,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:00.861",
+                "start": "0:00:00",
+                "end": "0:01:00.861"
+              },
+              {
+                "confidence": 0.9335,
+                "adjustedStart": "0:01:01.929",
+                "adjustedEnd": "0:01:21.148",
+                "start": "0:01:01.929",
+                "end": "0:01:21.148"
+              },
+              {
+                "confidence": 0.9896,
+                "adjustedStart": "0:01:25.419",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:25.419",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "business",
+            "referenceId": "enterprise/business",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9267,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.068",
+                "start": "0:00:00",
+                "end": "0:00:01.068"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "wearing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.913,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.068",
+                "start": "0:00:00",
+                "end": "0:00:01.068"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8959,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.068",
+                "start": "0:00:00",
+                "end": "0:00:01.068"
+              },
+              {
+                "confidence": 0.9424,
+                "adjustedStart": "0:00:21.355",
+                "adjustedEnd": "0:01:20.08",
+                "start": "0:00:21.355",
+                "end": "0:01:20.08"
+              },
+              {
+                "confidence": 0.8769,
+                "adjustedStart": "0:01:25.419",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:25.419",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "sign",
+            "referenceId": "communication/indication/sign",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9347,
+                "adjustedStart": "0:00:01.068",
+                "adjustedEnd": "0:00:02.136",
+                "start": "0:00:01.068",
+                "end": "0:00:02.136"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "screen",
+            "referenceId": "electronics/screen",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9622,
+                "adjustedStart": "0:00:02.135",
+                "adjustedEnd": "0:00:03.203",
+                "start": "0:00:02.135",
+                "end": "0:00:03.203"
+              },
+              {
+                "confidence": 0.964,
+                "adjustedStart": "0:01:36.096",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:36.096",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "smile",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.95,
+                "adjustedStart": "0:00:02.135",
+                "adjustedEnd": "0:00:16.016",
+                "start": "0:00:02.135",
+                "end": "0:00:16.016"
+              },
+              {
+                "confidence": 0.9112,
+                "adjustedStart": "0:00:17.084",
+                "adjustedEnd": "0:00:21.355",
+                "start": "0:00:17.084",
+                "end": "0:00:21.355"
+              },
+              {
+                "confidence": 0.9454,
+                "adjustedStart": "0:01:00.861",
+                "adjustedEnd": "0:01:01.929",
+                "start": "0:01:00.861",
+                "end": "0:01:01.929"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "hair",
+            "referenceId": "body covering/hair",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8577,
+                "adjustedStart": "0:00:02.135",
+                "adjustedEnd": "0:00:04.271",
+                "start": "0:00:02.135",
+                "end": "0:00:04.271"
+              },
+              {
+                "confidence": 0.8588,
+                "adjustedStart": "0:00:12.813",
+                "adjustedEnd": "0:00:14.949",
+                "start": "0:00:12.813",
+                "end": "0:00:14.949"
+              },
+              {
+                "confidence": 0.8588,
+                "adjustedStart": "0:00:16.016",
+                "adjustedEnd": "0:00:21.355",
+                "start": "0:00:16.016",
+                "end": "0:00:21.355"
+              },
+              {
+                "confidence": 0.8545,
+                "adjustedStart": "0:01:17.945",
+                "adjustedEnd": "0:01:19.013",
+                "start": "0:01:17.945",
+                "end": "0:01:19.013"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "shelf",
+            "referenceId": "furniture/shelf",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8199,
+                "adjustedStart": "0:00:02.135",
+                "adjustedEnd": "0:00:05.339",
+                "start": "0:00:02.135",
+                "end": "0:00:05.339"
+              },
+              {
+                "confidence": 0.807,
+                "adjustedStart": "0:00:06.406",
+                "adjustedEnd": "0:00:07.474",
+                "start": "0:00:06.406",
+                "end": "0:00:07.474"
+              },
+              {
+                "confidence": 0.8228,
+                "adjustedStart": "0:00:10.677",
+                "adjustedEnd": "0:00:12.813",
+                "start": "0:00:10.677",
+                "end": "0:00:12.813"
+              },
+              {
+                "confidence": 0.8171,
+                "adjustedStart": "0:00:14.948",
+                "adjustedEnd": "0:00:16.016",
+                "start": "0:00:14.948",
+                "end": "0:00:16.016"
+              },
+              {
+                "confidence": 0.8114,
+                "adjustedStart": "0:00:19.219",
+                "adjustedEnd": "0:00:21.355",
+                "start": "0:00:19.219",
+                "end": "0:00:21.355"
+              },
+              {
+                "confidence": 0.8092,
+                "adjustedStart": "0:01:00.861",
+                "adjustedEnd": "0:01:01.929",
+                "start": "0:01:00.861",
+                "end": "0:01:01.929"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "indoor",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8081,
+                "adjustedStart": "0:00:02.135",
+                "adjustedEnd": "0:00:04.271",
+                "start": "0:00:02.135",
+                "end": "0:00:04.271"
+              },
+              {
+                "confidence": 0.8222,
+                "adjustedStart": "0:00:10.677",
+                "adjustedEnd": "0:00:12.813",
+                "start": "0:00:10.677",
+                "end": "0:00:12.813"
+              },
+              {
+                "confidence": 0.8028,
+                "adjustedStart": "0:00:14.948",
+                "adjustedEnd": "0:00:16.016",
+                "start": "0:00:14.948",
+                "end": "0:00:16.016"
+              },
+              {
+                "confidence": 0.899,
+                "adjustedStart": "0:00:20.287",
+                "adjustedEnd": "0:01:20.08",
+                "start": "0:00:20.287",
+                "end": "0:01:20.08"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "window",
+            "referenceId": "structure/framework/window",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9447,
+                "adjustedStart": "0:00:21.355",
+                "adjustedEnd": "0:01:20.08",
+                "start": "0:00:21.355",
+                "end": "0:01:20.08"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "wall",
+            "referenceId": "structure/wall",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9084,
+                "adjustedStart": "0:00:21.355",
+                "adjustedEnd": "0:00:22.423",
+                "start": "0:00:21.355",
+                "end": "0:00:22.423"
+              },
+              {
+                "confidence": 0.9032,
+                "adjustedStart": "0:00:23.49",
+                "adjustedEnd": "0:00:28.829",
+                "start": "0:00:23.49",
+                "end": "0:00:28.829"
+              },
+              {
+                "confidence": 0.9019,
+                "adjustedStart": "0:00:29.897",
+                "adjustedEnd": "0:00:32.032",
+                "start": "0:00:29.897",
+                "end": "0:00:32.032"
+              },
+              {
+                "confidence": 0.8965,
+                "adjustedStart": "0:00:34.167",
+                "adjustedEnd": "0:00:35.235",
+                "start": "0:00:34.167",
+                "end": "0:00:35.235"
+              },
+              {
+                "confidence": 0.8963,
+                "adjustedStart": "0:00:42.709",
+                "adjustedEnd": "0:00:43.777",
+                "start": "0:00:42.709",
+                "end": "0:00:43.777"
+              },
+              {
+                "confidence": 0.8991,
+                "adjustedStart": "0:00:44.845",
+                "adjustedEnd": "0:00:49.116",
+                "start": "0:00:44.845",
+                "end": "0:00:49.116"
+              },
+              {
+                "confidence": 0.8949,
+                "adjustedStart": "0:00:53.387",
+                "adjustedEnd": "0:00:54.455",
+                "start": "0:00:53.387",
+                "end": "0:00:54.455"
+              },
+              {
+                "confidence": 0.9004,
+                "adjustedStart": "0:00:55.522",
+                "adjustedEnd": "0:00:58.726",
+                "start": "0:00:55.522",
+                "end": "0:00:58.726"
+              },
+              {
+                "confidence": 0.8971,
+                "adjustedStart": "0:01:01.929",
+                "adjustedEnd": "0:01:04.064",
+                "start": "0:01:01.929",
+                "end": "0:01:04.064"
+              },
+              {
+                "confidence": 0.8992,
+                "adjustedStart": "0:01:05.132",
+                "adjustedEnd": "0:01:07.267",
+                "start": "0:01:05.132",
+                "end": "0:01:07.267"
+              },
+              {
+                "confidence": 0.904,
+                "adjustedStart": "0:01:08.335",
+                "adjustedEnd": "0:01:10.471",
+                "start": "0:01:08.335",
+                "end": "0:01:10.471"
+              },
+              {
+                "confidence": 0.901,
+                "adjustedStart": "0:01:11.538",
+                "adjustedEnd": "0:01:15.809",
+                "start": "0:01:11.538",
+                "end": "0:01:15.809"
+              },
+              {
+                "confidence": 0.9029,
+                "adjustedStart": "0:01:16.877",
+                "adjustedEnd": "0:01:20.08",
+                "start": "0:01:16.877",
+                "end": "0:01:20.08"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "funny",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9869,
+                "adjustedStart": "0:00:25.626",
+                "adjustedEnd": "0:00:26.694",
+                "start": "0:00:25.626",
+                "end": "0:00:26.694"
+              },
+              {
+                "confidence": 0.9862,
+                "adjustedStart": "0:00:27.761",
+                "adjustedEnd": "0:00:30.965",
+                "start": "0:00:27.761",
+                "end": "0:00:30.965"
+              },
+              {
+                "confidence": 0.9867,
+                "adjustedStart": "0:00:33.1",
+                "adjustedEnd": "0:00:35.235",
+                "start": "0:00:33.1",
+                "end": "0:00:35.235"
+              },
+              {
+                "confidence": 0.9858,
+                "adjustedStart": "0:00:36.303",
+                "adjustedEnd": "0:00:39.506",
+                "start": "0:00:36.303",
+                "end": "0:00:39.506"
+              },
+              {
+                "confidence": 0.9874,
+                "adjustedStart": "0:00:40.574",
+                "adjustedEnd": "0:00:43.777",
+                "start": "0:00:40.574",
+                "end": "0:00:43.777"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "name": "spectacles",
+            "referenceId": "device/optical instrument/spectacles",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8728,
+                "adjustedStart": "0:00:44.845",
+                "adjustedEnd": "0:00:45.913",
+                "start": "0:00:44.845",
+                "end": "0:00:45.913"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "forehead",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9009,
+                "adjustedStart": "0:01:05.132",
+                "adjustedEnd": "0:01:06.2",
+                "start": "0:01:05.132",
+                "end": "0:01:06.2"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "name": "minimalist",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9902,
+                "adjustedStart": "0:01:20.08",
+                "adjustedEnd": "0:01:21.148",
+                "start": "0:01:20.08",
+                "end": "0:01:21.148"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "name": "design",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9973,
+                "adjustedStart": "0:01:20.08",
+                "adjustedEnd": "0:01:25.419",
+                "start": "0:01:20.08",
+                "end": "0:01:25.419"
+              },
+              {
+                "confidence": 0.9852,
+                "adjustedStart": "0:01:26.486",
+                "adjustedEnd": "0:01:27.554",
+                "start": "0:01:26.486",
+                "end": "0:01:27.554"
+              },
+              {
+                "confidence": 0.9905,
+                "adjustedStart": "0:01:30.757",
+                "adjustedEnd": "0:01:36.463",
+                "start": "0:01:30.757",
+                "end": "0:01:36.463"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "name": "red",
+            "referenceId": "color/red",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9551,
+                "adjustedStart": "0:01:20.08",
+                "adjustedEnd": "0:01:21.148",
+                "start": "0:01:20.08",
+                "end": "0:01:21.148"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "name": "carmine",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9119,
+                "adjustedStart": "0:01:20.08",
+                "adjustedEnd": "0:01:21.148",
+                "start": "0:01:20.08",
+                "end": "0:01:21.148"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "name": "colorfulness",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9063,
+                "adjustedStart": "0:01:20.08",
+                "adjustedEnd": "0:01:21.148",
+                "start": "0:01:20.08",
+                "end": "0:01:21.148"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "name": "illustration",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9916,
+                "adjustedStart": "0:01:21.148",
+                "adjustedEnd": "0:01:23.283",
+                "start": "0:01:21.148",
+                "end": "0:01:23.283"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "name": "typography",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9941,
+                "adjustedStart": "0:01:21.148",
+                "adjustedEnd": "0:01:25.419",
+                "start": "0:01:21.148",
+                "end": "0:01:25.419"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "name": "logo",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9273,
+                "adjustedStart": "0:01:21.148",
+                "adjustedEnd": "0:01:25.419",
+                "start": "0:01:21.148",
+                "end": "0:01:25.419"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "name": "font",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9384,
+                "adjustedStart": "0:01:22.215",
+                "adjustedEnd": "0:01:25.419",
+                "start": "0:01:22.215",
+                "end": "0:01:25.419"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.201",
+                "start": "0:00:00",
+                "end": "0:00:01.201"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.201",
+                "adjustedEnd": "0:00:21.388",
+                "start": "0:00:01.201",
+                "end": "0:00:21.388"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.388",
+                "adjustedEnd": "0:01:19.846",
+                "start": "0:00:21.388",
+                "end": "0:01:19.846"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:01:19.846",
+                "adjustedEnd": "0:01:24.718",
+                "start": "0:01:19.846",
+                "end": "0:01:24.718"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.718",
+                "adjustedEnd": "0:01:36.029",
+                "start": "0:01:24.718",
+                "end": "0:01:36.029"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "instances": [
+              {
+                "adjustedStart": "0:01:36.029",
+                "adjustedEnd": "0:01:36.329",
+                "start": "0:01:36.029",
+                "end": "0:01:36.329"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "tags": [
+              "CloseUp",
+              "RightFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "c1869e7c-2342-4ee8-b400-bd41890832d0",
+                    "adjustedStart": "0:00:00.167",
+                    "adjustedEnd": "0:00:00.2",
+                    "start": "0:00:00.167",
+                    "end": "0:00:00.2"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "d171c323-434e-4907-a32e-cb1b8f782315",
+                    "adjustedStart": "0:00:00.2",
+                    "adjustedEnd": "0:00:00.233",
+                    "start": "0:00:00.2",
+                    "end": "0:00:00.233"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.201",
+                "start": "0:00:00",
+                "end": "0:00:01.201"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "tags": [
+              "CloseUp",
+              "Medium",
+              "Indoor"
+            ],
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "9df07cd9-0462-4fa0-8fa9-47a7aebf233f",
+                    "adjustedStart": "0:00:01.201",
+                    "adjustedEnd": "0:00:01.234",
+                    "start": "0:00:01.201",
+                    "end": "0:00:01.234"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "0074fc70-25f3-4bc4-a71d-4a5fd668e80e",
+                    "adjustedStart": "0:00:02.87",
+                    "adjustedEnd": "0:00:02.903",
+                    "start": "0:00:02.87",
+                    "end": "0:00:02.903"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:01.201",
+                "adjustedEnd": "0:00:21.388",
+                "start": "0:00:01.201",
+                "end": "0:00:21.388"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "tags": [
+              "CloseUp",
+              "CenterFace",
+              "Indoor"
+            ],
+            "keyFrames": [
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "e9f17ac6-0358-402a-b1e0-0a1325263525",
+                    "adjustedStart": "0:00:21.388",
+                    "adjustedEnd": "0:00:21.421",
+                    "start": "0:00:21.388",
+                    "end": "0:00:21.421"
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "1cb48e61-2797-4eeb-90ab-29ff539ac311",
+                    "adjustedStart": "0:01:01.194",
+                    "adjustedEnd": "0:01:01.227",
+                    "start": "0:01:01.194",
+                    "end": "0:01:01.227"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:21.388",
+                "adjustedEnd": "0:01:19.846",
+                "start": "0:00:21.388",
+                "end": "0:01:19.846"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "tags": [
+              "Indoor"
+            ],
+            "keyFrames": [
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "ddad451f-76ac-4615-9ad2-5d170634f59d",
+                    "adjustedStart": "0:01:19.846",
+                    "adjustedEnd": "0:01:19.879",
+                    "start": "0:01:19.846",
+                    "end": "0:01:19.879"
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "54401470-b806-46a6-807e-b78699c471c2",
+                    "adjustedStart": "0:01:20.414",
+                    "adjustedEnd": "0:01:20.447",
+                    "start": "0:01:20.414",
+                    "end": "0:01:20.447"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:19.846",
+                "adjustedEnd": "0:01:24.718",
+                "start": "0:01:19.846",
+                "end": "0:01:24.718"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "tags": [
+              "Medium",
+              "LeftFace"
+            ],
+            "keyFrames": [
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "d36a6a17-7a27-4887-8c05-55369e70ba57",
+                    "adjustedStart": "0:01:24.718",
+                    "adjustedEnd": "0:01:24.751",
+                    "start": "0:01:24.718",
+                    "end": "0:01:24.751"
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "d96d1da8-0b7f-45a7-b43a-5133848344f8",
+                    "adjustedStart": "0:01:25.085",
+                    "adjustedEnd": "0:01:25.118",
+                    "start": "0:01:25.085",
+                    "end": "0:01:25.118"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.718",
+                "adjustedEnd": "0:01:36.029",
+                "start": "0:01:24.718",
+                "end": "0:01:36.029"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "tags": [
+              "Medium",
+              "LeftFace",
+              "Indoor"
+            ],
+            "keyFrames": [
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "aa72e032-922d-443a-8021-c1c79091ea6e",
+                    "adjustedStart": "0:01:36.029",
+                    "adjustedEnd": "0:01:36.062",
+                    "start": "0:01:36.029",
+                    "end": "0:01:36.062"
+                  }
+                ]
+              },
+              {
+                "id": 12,
+                "instances": [
+                  {
+                    "thumbnailId": "4de791c7-f74b-4e9a-9913-dba3a77f4c8f",
+                    "adjustedStart": "0:01:36.196",
+                    "adjustedEnd": "0:01:36.229",
+                    "start": "0:01:36.196",
+                    "end": "0:01:36.229"
+                  }
+                ]
+              },
+              {
+                "id": 13,
+                "instances": [
+                  {
+                    "thumbnailId": "3b0af0c1-4380-4cfc-afd5-54ab843396fe",
+                    "adjustedStart": "0:01:36.296",
+                    "adjustedEnd": "0:01:36.329",
+                    "start": "0:01:36.296",
+                    "end": "0:01:36.329"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:36.029",
+                "adjustedEnd": "0:01:36.329",
+                "start": "0:01:36.029",
+                "end": "0:01:36.329"
+              }
+            ]
+          }
+        ],
+        "brands": [
+          {
+            "id": 1,
+            "referenceType": "Wiki",
+            "name": "YouTube",
+            "referenceId": "YouTube",
+            "referenceUrl": "http://en.wikipedia.org/wiki/YouTube",
+            "description": "YouTube is a video-sharing website headquartered in San Bruno, California, United States. The service was created by three former PayPal employees in February 2005. In November 2006, it was bought by Google for US$1.65 billion. YouTube now operates as one of Google's subsidiaries.",
+            "tags": [],
+            "confidence": 0.3364,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Transcript",
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:26.27",
+                "adjustedEnd": "0:01:27.68",
+                "start": "0:01:26.27",
+                "end": "0:01:27.68"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "referenceType": "Wiki",
+            "name": "Medison",
+            "referenceId": "Medison",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Medison",
+            "description": "Medison is a Swedish consulting company registered in the UK. In July 2007, Medison caused massive attention world-wide as it announced its Medison Celebrity notebook computer which it would be selling for just $150. However, critics suspected it to be a fraud and orders have yet to be delivered. As of September 2007, Medison's account at 2CheckOut had been suspended.",
+            "tags": [],
+            "confidence": 0.7395,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Transcript",
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:07.65",
+                "adjustedEnd": "0:00:13.26",
+                "start": "0:00:07.65",
+                "end": "0:00:13.26"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "referenceType": "Wiki",
+            "name": "MSNBC",
+            "referenceId": "MSNBC",
+            "referenceUrl": "http://en.wikipedia.org/wiki/MSNBC",
+            "description": "MSNBC is an American basic cable and satellite television network that provides news coverage and political commentary from NBC News on current events. The network also carries a prime-time 'opinion page' programming bloc with a mostly progressive slant. It is owned by the NBCUniversal News Group, a unit of the NBCUniversal Television Group division of NBCUniversal.",
+            "tags": [],
+            "confidence": 0.8764,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Transcript",
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:24.86",
+                "adjustedEnd": "0:01:26.27",
+                "start": "0:01:24.86",
+                "end": "0:01:26.27"
+              },
+              {
+                "brandType": "Transcript",
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:26.27",
+                "adjustedEnd": "0:01:27.68",
+                "start": "0:01:26.27",
+                "end": "0:01:27.68"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "Jasper, Indiana",
+            "referenceId": "Jasper,_Indiana",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Jasper,_Indiana",
+            "description": "Jasper is a city in Dubois County, Indiana, United States located along the Patoka River. The population was 15,038 at the 2010 census making it the 55th largest city in Indiana. Jasper has been the county seat of Dubois County since 1830, succeeding Portersville. On November 4, 2007, Dubois County returned to the Eastern Time Zone, after having moved to the Central Time Zone the previous year.",
+            "tags": [],
+            "confidence": 0.7297,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:24.291",
+                "adjustedEnd": "0:00:28.028",
+                "start": "0:00:24.291",
+                "end": "0:00:28.028"
+              }
+            ]
+          }
+        ],
+        "namedPeople": [
+          {
+            "id": 1,
+            "name": "Michael Caputo",
+            "referenceId": "Michael_Caputo",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Michael_Caputo",
+            "description": "Michael R. Caputo (born 1962) is a Republican political strategist, and media consultant. He became enamored of Ronald Reagan while serving in the military and became a Republican, later working for politicians including Jack Kemp. He worked for the Reagan Administration with Oliver North, then as assistant director of the House of Representatives Gallery of the Radio and Television Correspondents' Association. He left that role to serve as director of media services on the campaign for President George H.W. Bush in the 1992 United States presidential election.",
+            "tags": [],
+            "confidence": 0.4661,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Ocr",
+                "adjustedStart": "0:00:00.467",
+                "adjustedEnd": "0:00:01.401",
+                "start": "0:00:00.467",
+                "end": "0:00:01.401"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Chris Hayes",
+            "referenceId": "Chris_Hayes",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Chris_Hayes",
+            "description": "Chris Hayes net worth: Chris Hayes is an American political commentator, journalist, and author who has a net worth of $5 million dollars. Chris Hayes was born in The Bronx, New York in February 1979. He graduated from Brown University where he earned a Bachelor of Arts in Philosophy. He got his start in journalism at a weekly newspaper called Chicago Reader. He then worked at a labor magazine called In These Times for four years. He was a Puffin Foundation Writing Fellow at The Nation Institute. He got his start on television as a guest host for the Rachel Maddow Show in 2010. From here, he landed hosting gigs on other MSNBC shows. He was given his own two-hour weekend morning show called \"Up with Chris Hayes\" in 2011. Chris currently hosts the show \"All in with Chris Hayes\" on MSNBC which airs weekdays. He formerly hosted the MSNBC television series \"Up with Chris Hayes\". He is an editor at large of the Nation magazine. His first book \"Twilight of the Elites: America After Meritocracy\" was published in 2012 and his second book, \"A Colony in a Nation\" was published in March 2017. Hayes served as an adjunct professor of English at St. Augustine College in Chicago and was a regular contributor to the Chicago Reader. Chris is married to law professor Kate Shaw. Together they have three children.",
+            "tags": [],
+            "confidence": 0.4187,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:24.86",
+                "adjustedEnd": "0:01:26.27",
+                "start": "0:01:24.86",
+                "end": "0:01:26.27"
+              }
+            ]
+          }
+        ],
+        "audioEffects": [
+          {
+            "id": 1,
+            "type": "Silence",
+            "instances": [
+              {
+                "adjustedStart": "0:01:19.53",
+                "adjustedEnd": "0:01:24.709",
+                "start": "0:01:19.53",
+                "end": "0:01:24.709"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:33.75",
+                "start": "0:00:00",
+                "end": "0:00:33.75"
+              },
+              {
+                "adjustedStart": "0:00:48.29",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:00:48.29",
+                "end": "0:01:36.479"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "averageScore": 0.1362,
+            "sentimentType": "Negative",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.75",
+                "adjustedEnd": "0:00:48.29",
+                "start": "0:00:33.75",
+                "end": "0:00:48.29"
+              }
+            ]
+          }
+        ],
+        "emotions": [
+          {
+            "id": 1,
+            "type": "Fear",
+            "instances": [
+              {
+                "confidence": 0.6808,
+                "adjustedStart": "0:00:33.75",
+                "adjustedEnd": "0:00:48.29",
+                "start": "0:00:33.75",
+                "end": "0:00:48.29"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:30.21",
+                "start": "0:00:00",
+                "end": "0:00:30.21"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:30.21",
+                "adjustedEnd": "0:01:00.73",
+                "start": "0:00:30.21",
+                "end": "0:01:00.73"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.73",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:01:00.73",
+                "end": "0:01:36.479"
+              }
+            ]
+          }
+        ],
+        "framePatterns": [
+          {
+            "id": 1,
+            "patternType": "RollingCredits",
+            "confidence": 0.1,
+            "instances": [
+              {
+                "adjustedStart": "0:01:31",
+                "adjustedEnd": "0:01:36",
+                "start": "0:01:31",
+                "end": "0:01:36"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "patternType": "Black",
+            "confidence": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:01:19.513",
+                "adjustedEnd": "0:01:19.613",
+                "start": "0:01:19.513",
+                "end": "0:01:19.613"
+              },
+              {
+                "adjustedStart": "0:01:24.551",
+                "adjustedEnd": "0:01:24.618",
+                "start": "0:01:24.551",
+                "end": "0:01:24.618"
+              },
+              {
+                "adjustedStart": "0:01:36.396",
+                "adjustedEnd": "0:01:36.43",
+                "start": "0:01:36.396",
+                "end": "0:01:36.43"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:18.49",
+                "start": "0:00:00",
+                "end": "0:00:18.49"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Speaker #2",
+            "instances": [
+              {
+                "adjustedStart": "0:00:18.49",
+                "adjustedEnd": "0:01:19.16",
+                "start": "0:00:18.49",
+                "end": "0:01:19.16"
+              },
+              {
+                "adjustedStart": "0:01:24.62",
+                "adjustedEnd": "0:01:24.86",
+                "start": "0:01:24.62",
+                "end": "0:01:24.86"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Speaker #3",
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.86",
+                "adjustedEnd": "0:01:30.5",
+                "start": "0:01:24.86",
+                "end": "0:01:30.5"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Speaker #4",
+            "instances": [
+              {
+                "adjustedStart": "0:01:30.5",
+                "adjustedEnd": "0:01:36.479",
+                "start": "0:01:30.5",
+                "end": "0:01:36.479"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 3,
+          "speakerTalkToListenRatio": {
+            "1": 0.203,
+            "2": 0.669,
+            "3": 0.061,
+            "4": 0.065
+          },
+          "speakerLongestMonolog": {
+            "1": 18,
+            "2": 60,
+            "3": 5,
+            "4": 5
+          },
+          "speakerNumberOfFragments": {
+            "1": 1,
+            "2": 2,
+            "3": 1,
+            "4": 1
+          },
+          "speakerWordCount": {
+            "1": 41,
+            "2": 168,
+            "3": 24,
+            "4": 22
+          }
+        }
+      },
+      "thumbnailId": "8f7d42e6-21c6-4797-9ad8-eabfcdd8fddc",
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [
+        "en-US"
+      ],
+      "language": "en-US",
+      "languages": [
+        "en-US"
+      ],
+      "indexingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "isAdult": false,
+      "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net/8360037e-f0f0-41b1-971d-0e0be2f4831b/msnbc.ism/manifest(encryption=cbc)",
+      "publishedProxyUrl": null,
+      "viewToken": "Bearer=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiJmMWNkMGI0My05YjFmLTRhZTItOTdiNC1hNGU0YWEyY2U2MWMiLCJuYmYiOjE1ODg2MTQ1MDMsImV4cCI6MTU4ODY1Nzc2MywiaXNzIjoiaHR0cHM6Ly9icmVha2Rvd24ubWUiLCJhdWQiOiJCcmVha2Rvd25Vc2VyIn0.Twqtpiyv-Gcg6XqkUnBk7sPth9oHrA5JttvKlDTPzzc"
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "9959fc9530",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:01:36.534"
+      }
+    }
+  ]
+}
